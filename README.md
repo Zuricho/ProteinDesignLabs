@@ -476,7 +476,7 @@ For Labs in China, please refer to add link.
 <summary>Jian Tang</summary>
 </details>
 
-## Asia
+## Hongkong
 
 ### Chinese University of Hong Kong
 
@@ -486,6 +486,8 @@ For Labs in China, please refer to add link.
 - Research focus: RNA structure prediction
 - Lab website: [Yu Li Lab](https://liyu95.com/)
 </details>
+
+## Singapore
 
 ### National University of Singapore
 
@@ -498,6 +500,9 @@ For Labs in China, please refer to add link.
   - [EvoDesign](https://doi.org/10.1016/j.jmb.2019.02.028)
   - [EvoEF2: accurate and fast energy function for computational protein design](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
 </details>
+
+## Korea
+
 
 ## United Kingdom
 
@@ -558,9 +563,8 @@ For Labs in China, please refer to add link.
 - Lab website: [Rost Lab](https://www.rostlab.org/)
 </details>
 
-## Other European Countries
 
-### Spain
+## Spain
 
 <details>
 <summary>Noelia Ferruz</summary>
