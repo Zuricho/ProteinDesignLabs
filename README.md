@@ -565,6 +565,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Pietro Liò</summary>
+  
 - Lab website: [Link](https://www.cl.cam.ac.uk/~pl219/)
 </details>
 
@@ -572,6 +573,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Michael Bronstein</summary>
+  
 - Lab website: [Link](https://www.cs.ox.ac.uk/people/michael.bronstein/)
 </details>
 
@@ -602,6 +604,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Bruno E. Correia</summary>
+  
 - Lab website: [Link](https://www.epfl.ch/labs/lpdi/)
 </details>
 
