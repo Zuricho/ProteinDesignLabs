@@ -9,10 +9,10 @@ For Labs in China, please refer to add link.
 ## Table of Contents
 
 - [United States](#united-states)
-  - [University of Washington](#university-of-washington)
   - [MIT](#mit)
   - [Harvard University](#harvard-university)
   - [Stanford University](#stanford-university)
+  - [University of Washington](#university-of-washington)
   - [UCSF](#ucsf)
   - [UC Berkeley](#uc-berkeley)
   - [UCLA](#ucla)
@@ -34,6 +34,8 @@ For Labs in China, please refer to add link.
   - [UCSB](#ucsb)
   - [UCSC](#ucsc)
   - [UT Southwestern](#ut-southwestern)
+  - [University of Wisconsin-Madison](#university-of-wisconsin-madison)
+  - [University of Wisconsin-Madison](#university-of-alabama-at-Birmingham)
 - [Canada](#canada)
   - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
 - [Asia](#asia)
@@ -306,14 +308,6 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Philip A Romero</summary>
-</details>
-
-<details>
-<summary>Gabriel P. López</summary>
-
-- Research focus: IDP design
-- Personal website: [Gabriel Lopez](https://medx.duke.edu/community/gabriel-lopez)
-- Related paper: [IDP design](https://www.nature.com/articles/nchem.2715)
 </details>
 
 ### John Hopkins University
