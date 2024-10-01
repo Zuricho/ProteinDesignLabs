@@ -511,12 +511,13 @@ For Labs in China, please refer to add link.
 <details>
 <summary>Jian Tang</summary>
   - Lab website: [Link](https://jian-tang.com/)
+  - Lab website: [Link](https://liyu95.com/)
 </details>
 
 ### University of Toronto
 
 <details>
-<summary>Yoshua Bengio</summary>
+<summary>Philip Kim</summary>
 - Lab website: [Link](https://www.kimlab.org/)
 </details>
 
@@ -526,8 +527,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Yu Li</summary>
-
-- Lab website: [Yu Li Lab](https://liyu95.com/)
+- Lab website: [Link](https://liyu95.com/)
 </details>
 
 ## Singapore
