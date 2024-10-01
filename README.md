@@ -123,6 +123,7 @@ This list serves as a public reference for labs engaged in computational protein
 - Related papers:
   - [CoVES](https://www.nature.com/articles/s41467-024-45621-4)
   - [ProteinGym](https://www.biorxiv.org/content/10.1101/2023.12.07.570727v1)
+  - [Evolutionary Couplings](https://www.nature.com/articles/s41467-024-45621-4)
 </details>
 
 <details>
