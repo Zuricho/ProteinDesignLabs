@@ -385,7 +385,7 @@ This list serves as a public reference for labs engaged in computational protein
 <details>
 <summary>Rohit Singh</summary>
 
-- Lab website: [Link]((https://singhlab.net/)
+- Lab website: [Link](https://singhlab.net/)
 </details>
 
 ### John Hopkins University
