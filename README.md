@@ -505,12 +505,12 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Yoshua Bengio</summary>
-- Lab website: [Link](https://yoshuabengio.org/fr/profil/)
+  - Lab website: [Link](https://yoshuabengio.org/fr/profil/)
 </details>
 
 <details>
 <summary>Jian Tang</summary>
-- Lab website: [Link](https://jian-tang.com/)
+  - Lab website: [Link](https://jian-tang.com/)
 </details>
 
 ### University of Toronto
