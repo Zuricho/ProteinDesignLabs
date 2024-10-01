@@ -59,7 +59,7 @@ This list serves as a public reference for labs engaged in computational protein
 - [Germany](#germany)
   - [TUM](#tum)
 - [Spain](#spain)
-- [China Mainland](#china)
+- [China Mainland](#china-mainland)
 
 ## United States
 
