@@ -47,8 +47,7 @@ For Labs in China, please refer to add link.
   - [EPFL](#epfl)
 - [Germany](#germany)
   - [TUM](#tum)
-- [Other European Countries](#other-european-countries)
-  - [Spain](#spain)
+- [Spain](#spain)
 
 ## United States
 
