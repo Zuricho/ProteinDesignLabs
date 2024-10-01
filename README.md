@@ -1,5 +1,50 @@
 # Protein Design Labs
 
+# AI Protein Design Research Groups Worldwide
+
+## Table of Contents
+
+- [United States](#united-states)
+  - [University of Washington](#university-of-washington)
+  - [MIT](#mit)
+  - [Harvard University](#harvard-university)
+  - [Stanford University](#stanford-university)
+  - [UCSF](#ucsf)
+  - [UC Berkeley](#uc-berkeley)
+  - [UCLA](#ucla)
+  - [Caltech](#caltech)
+  - [University of Chicago](#university-of-chicago)
+  - [UIUC](#uiuc)
+  - [Scripps Research Institute](#scripps-research-institute)
+  - [Princeton University](#princeton-university)
+  - [Duke University](#duke-university)
+  - [John Hopkins University](#john-hopkins-university)
+  - [Carnegie Mellon University](#carnegie-mellon-university)
+  - [Northwestern University](#northwestern-university)
+  - [UNC Chapel Hill](#unc-chapel-hill)
+  - [Dartmouth College](#dartmouth-college)
+  - [Columbia University](#columbia-university)
+  - [NYU](#nyu)
+  - [Northeastern University](#northeastern-university)
+  - [Texas A&M University](#texas-am-university)
+  - [UCSB](#ucsb)
+  - [UCSC](#ucsc)
+  - [UT Southwestern](#ut-southwestern)
+- [Canada](#canada)
+  - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
+- [Asia](#asia)
+  - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
+  - [National University of Singapore](#national-university-of-singapore)
+- [United Kingdom](#united-kingdom)
+  - [University of Cambridge](#university-of-cambridge)
+  - [University of Oxford](#university-of-oxford)
+- [Switzerland](#switzerland)
+  - [ETH Zurich](#eth-zurich)
+  - [EPFL](#epfl)
+- [Germany](#germany)
+  - [TUM](#tum)
+- [Other European Countries](#other-european-countries)
+  - [Spain](#spain)
 
 ## United States
 
@@ -258,6 +303,14 @@
 
 <details>
 <summary>Philip A Romero</summary>
+</details>
+
+<details>
+<summary>Gabriel P. López</summary>
+
+- Research focus: IDP design
+- Personal website: [Gabriel Lopez](https://medx.duke.edu/community/gabriel-lopez)
+- Related paper: [IDP design](https://www.nature.com/articles/nchem.2715)
 </details>
 
 ### John Hopkins University
