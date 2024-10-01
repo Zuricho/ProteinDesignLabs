@@ -44,8 +44,6 @@ This list serves as a public reference for labs engaged in computational protein
 - [Canada](#canada)
   - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
   - [University of Toronto](#university-of-toronto)
-- [HongKong](#hongkong)
-  - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
 - [Singapore](#singapore)
   - [National University of Singapore](#national-university-of-singapore)
 - [Korea](#korea)
@@ -59,6 +57,8 @@ This list serves as a public reference for labs engaged in computational protein
 - [Germany](#germany)
   - [TUM](#tum)
 - [Spain](#spain)
+- [HongKong](#hongkong)
+  - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
 - [China Mainland](#china-mainland)
 
 ## United States
@@ -571,16 +571,6 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [Link](https://www.kimlab.org/)
 </details>
 
-## Hongkong
-
-### Chinese University of Hong Kong
-
-<details>
-<summary>Yu Li</summary>
-
-- Lab website: [Link](https://liyu95.com/)
-</details>
-
 ## Singapore
 
 ### National University of Singapore
@@ -685,6 +675,16 @@ This list serves as a public reference for labs engaged in computational protein
 
 - Lab website: [Artificial Intelligence for Protein Design - Noelia Ferruz lab](https://www.aiproteindesign.com/)
 - Related paper: [ZymCTRL: Conditional language models enable the efficient design of proficient enzymes](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
+</details>
+
+## Hongkong
+
+### Chinese University of Hong Kong
+
+<details>
+<summary>Yu Li</summary>
+
+- Lab website: [Link](https://liyu95.com/)
 </details>
 
 
