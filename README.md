@@ -39,9 +39,13 @@ For Labs in China, please refer to add link.
   - [University of Florida](#university-of-florida)
 - [Canada](#canada)
   - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
-- [Asia](#asia)
+  - [University of Toronto](#university-of-toronto)
+- [HongKong](#hongkong)
   - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
+- [Singapore](#singapore)
   - [National University of Singapore](#national-university-of-singapore)
+- [Korea](#korea)
+  - [Seoul National University](#seoul-national-university)
 - [United Kingdom](#united-kingdom)
   - [University of Cambridge](#university-of-cambridge)
   - [University of Oxford](#university-of-oxford)
@@ -57,42 +61,43 @@ For Labs in China, please refer to add link.
 ### MIT
 
 <details>
-<summary>George Church</summary>
-</details>
-
-<details>
 <summary>Bonnie Berger</summary>
-</details>
-
-<details>
-<summary>Amy Keating</summary>
+- Lab website: [Link](https://people.csail.mit.edu/bab/)
 </details>
 
 <details>
 <summary>Tommi S. Jaakkola</summary>
+- Lab website: [Link](https://people.csail.mit.edu/tommi/)
 </details>
 
 <details>
 <summary>Regina Barzilay</summary>
-
+- Lab website: [Link](https://www.regina.csail.mit.edu/)
 - Related paper: CLIPZyme: [arXiv:2402.06748](http://arxiv.org/abs/2402.06748)
 </details>
 
 <details>
 <summary>Tess Smidt</summary>
+- Lab website: [Link](https://blondegeek.github.io/)
 </details>
 
 <details>
 <summary>Sergey Ovchinnikov</summary>
+- Lab website: [Link](https://www.solab.org/)
 </details>
 
 <details>
 <summary>Alexandre Rives</summary>
-
+- Lab website: NA
 - Related papers:
   - [ESM3: Simulating 500 million years of evolution with a language model](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
   - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
   - [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118)
+</details>
+
+<details>
+<summary>Amy Keating</summary>
+- Lab website: [Link](https://biology.mit.edu/profile/amy-e-keating/)
 </details>
 
 ### Harvard University
@@ -116,32 +121,49 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Marinka Zitnik</summary>
+- Lab website: [Link](https://zitniklab.hms.harvard.edu/bio/)
+</details>
+
+<details>
+<summary>George Church</summary>
+- Lab website: [Link](https://wyss.harvard.edu/team/core-faculty/george-church/)
+</details>
+
+<details>
+<summary>Yilun Du</summary>
+- Lab website: [Link](https://yilundu.github.io/)
 </details>
 
 ### Stanford University
 
 <details>
 <summary>Possu Huang</summary>
+- Lab website: [Link](http://www.proteindesign.org/)
 </details>
 
 <details>
 <summary>Jure Leskovec</summary>
+- Lab website: [Link](https://cs.stanford.edu/people/jure/)
 </details>
 
 <details>
 <summary>Rhiju Das</summary>
+- Lab website: [Link](https://profiles.stanford.edu/rhiju-das)
 </details>
 
 <details>
 <summary>Brian Trippe</summary>
+- Lab website: [Link](https://briantrippe.com/)
 </details>
 
 <details>
 <summary>Brian Hie</summary>
+- Lab website: [Link](https://evodesign.org/)
 </details>
 
 <details>
 <summary>Ron Dror</summary>
+- Lab website: [Link](https://drorlab.stanford.edu/)
 </details>
 
 
@@ -179,16 +201,19 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>William DeGrado</summary>
+- Lab website: [Link]
 </details>
 
 <details>
 <summary>Tanja Kortemme</summary>
+- Lab website: [Link]
 </details>
 
 ### UC Berkeley
 
 <details>
 <summary>Jennifer Doudna</summary>
+- Lab website: [Link]
 </details>
 
 <details>
@@ -203,17 +228,16 @@ For Labs in China, please refer to add link.
 - Personal website: [Jennifer Listgarten](http://www.jennifer.listgarten.com/)
 </details>
 
+<details>
+<summary>Pieter Abbeel</summary>
+- Lab website: [Link](https://people.eecs.berkeley.edu/~pabbeel/)
+</details>
+
 ### UCLA
 
 <details>
-<summary>Arieh Warshel</summary>
-
-- Related paper: [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312848120)
-</details>
-
-<details>
 <summary>Quanquan Gu</summary>
-
+- Lab website: [Link](https://web.cs.ucla.edu/~qgu/)
 - Personal website: [Quanquan Gu](https://web.cs.ucla.edu/~qgu/)
 - Related papers:
   - [LM-design](https://proceedings.mlr.press/v202/zheng23a.html)
@@ -222,7 +246,6 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Lin Jiang</summary>
-
 - Personal website: [Lin Jiang, Ph.D.](https://eastonad.ucla.edu/people/lin-jiang-phd)
 </details>
 
@@ -230,12 +253,18 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Frances Arnold</summary>
+- Lab website: [Link](http://fhalab.caltech.edu/)
 </details>
 
 <details>
 <summary>Steve Mayo</summary>
 
 - Lab website: [Welcome to the Mayo Group](https://www.mayo.caltech.edu/)
+</details>
+
+<details>
+<summary>Yisong Yue</summary>
+- Lab website: [Link](http://www.yisongyue.com/)
 </details>
 
 ### University of Chicago
@@ -287,34 +316,41 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Mengdi Wang</summary>
+- Lab website: [Link](https://ece.princeton.edu/people/mengdi-wang)
 </details>
 
 <details>
 <summary>Ellen D. Zhong</summary>
+- Lab website: [Link](https://www.cs.princeton.edu/~zhonge/)
 </details>
 
 ### Duke University
 
 <details>
 <summary>Bruce Donald</summary>
+- Lab website: [Link](https://users.cs.duke.edu/~brd/)
 </details>
 
 <details>
 <summary>Pranam D. Chatterjee</summary>
+- Lab website: [Link](https://www.chatterjeelab.com/)
 </details>
 
 <details>
 <summary>Alexander Tong</summary>
+- Lab website: [Link](https://www.alextong.net/)
 </details>
 
 <details>
 <summary>Philip A Romero</summary>
+- Lab website: [Link](https://pratt.duke.edu/people/philip-romero/)
 </details>
 
 ### John Hopkins University
 
 <details>
 <summary>Jeffery J Gray</summary>
+- Lab website: [Link](https://graylab.jhu.edu/)
 </details>
 
 ### Carnegie Mellon University
@@ -332,6 +368,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Gabriel J Rocklin</summary>
+- Lab website: [Link](http://www.rocklinlab.org/)
 </details>
 
 ### UNC Chapel Hill
@@ -392,13 +429,13 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Kyunghyun Cho</summary>
-
+- Lab website: [Link](https://kyunghyuncho.me/)
 - Related paper: [OpenReview](https://openreview.net/forum?id=MfiK69Ga6p)
 </details>
 
 <details>
 <summary>Andrew Gordon Wilson</summary>
-
+- Lab website: [Link](https://cims.nyu.edu/~andrewgw/)
 - Related paper: [OpenReview](https://openreview.net/forum?id=MfiK69Ga6p)
 </details>
 
@@ -406,7 +443,6 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Wengong Jin</summary>
-
 - Personal website: [Wengong Jin](https://people.csail.mit.edu/wengong/)
 </details>
 
@@ -414,7 +450,6 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Shuiwang Ji</summary>
-
 - Personal website: [Shuiwang Ji](https://people.tamu.edu/~sji/)
 </details>
 
@@ -422,7 +457,6 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Yang Yang</summary>
-
 - Lab website: [Yang Lab at UCSB](https://yang.chem.ucsb.edu/yang)
 </details>
 
@@ -430,7 +464,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Andy Hsien-Wei Yeh</summary>
-
+- Lab website: [Link](https://neolux.sites.ucsc.edu/people/)
 - Related paper: [bioRxiv 2023](https://www.biorxiv.org/content/10.1101/2023.11.01.565201v1)
 </details>
 
@@ -438,18 +472,21 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Qian Cong</summary>
+- Lab website: [Link](https://breakthroughs.utsouthwestern.edu/women/stories/cong-qian.html)
 </details>
 
 ### University of Wisconsin-Madison
 
 <details>
 <summary>Anthony Gitter</summary>
+- Lab website: [Link](https://www.biostat.wisc.edu/~gitter/)
 </details>
 
 ### University of Alabama at Birmingham
 
 <details>
 <summary>Hy Truong Son</summary>
+- Lab website: [Link](https://people.cs.uchicago.edu/~hytruongson/)
 </details>
 
 ### University of Florida
@@ -457,7 +494,7 @@ For Labs in China, please refer to add link.
 <details>
 <summary>Wenjun Xi</summary>
 
-- website: [Link](https://pharmacy.ufl.edu/profile/xie-wenjun/)
+- Lab website: [Link](https://pharmacy.ufl.edu/profile/xie-wenjun/)
 </details>
 
 
@@ -468,10 +505,19 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Yoshua Bengio</summary>
+- Lab website: [Link](https://yoshuabengio.org/fr/profil/)
 </details>
 
 <details>
 <summary>Jian Tang</summary>
+- Lab website: [Link](https://jian-tang.com/)
+</details>
+
+### University of Toronto
+
+<details>
+<summary>Yoshua Bengio</summary>
+- Lab website: [Link](https://www.kimlab.org/)
 </details>
 
 ## Hongkong
@@ -481,7 +527,6 @@ For Labs in China, please refer to add link.
 <details>
 <summary>Yu Li</summary>
 
-- Research focus: RNA structure prediction
 - Lab website: [Yu Li Lab](https://liyu95.com/)
 </details>
 
@@ -501,6 +546,18 @@ For Labs in China, please refer to add link.
 
 ## Korea
 
+### Seoul National University
+
+<details>
+<summary>Martin Steinegger</summary>
+- Lab website: [Link](https://steineggerlab.com/en/)
+</details>
+
+<details>
+<summary>MINKYUNG BAEK</summary>
+- Lab website: [Link](https://biosci.snu.ac.kr/en/people/faculty?mode=view&profidx=101)
+</details>
+
 
 ## United Kingdom
 
@@ -508,12 +565,14 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Pietro Liò</summary>
+- Lab website: [Link](https://www.cl.cam.ac.uk/~pl219/)
 </details>
 
 ### University of Oxford
 
 <details>
 <summary>Michael Bronstein</summary>
+- Lab website: [Link](https://www.cs.ox.ac.uk/people/michael.bronstein/)
 </details>
 
 <details>
@@ -543,6 +602,7 @@ For Labs in China, please refer to add link.
 
 <details>
 <summary>Bruno E. Correia</summary>
+- Lab website: [Link](https://www.epfl.ch/labs/lpdi/)
 </details>
 
 <details>
