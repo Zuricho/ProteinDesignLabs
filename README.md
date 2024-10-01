@@ -1,4 +1,8 @@
 # Protein Design Labs
+The initial list was based add links Zhihu.
+
+For Labs in China, please refer to add link.
+
 
 # AI Protein Design Research Groups Worldwide
 
