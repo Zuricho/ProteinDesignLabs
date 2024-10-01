@@ -1,10 +1,15 @@
+
 # Protein Design Labs
-The initial list was based add links Zhihu.
-
-For Labs in China, please refer to add link.
 
 
-# AI Protein Design Research Groups Worldwide
+🧬 Welcome to our curated list of computational protein design research labs! 🔬
+
+This list serves as a public reference for labs engaged in computational protein design research. While we've made every effort to be comprehensive, our knowledge may be limited. We welcome suggestions for additions – please feel free to open new issues, and we'll update the list accordingly.
+
+> 📝 Note: The initial list was inspired by @Zuricho's post on [Zhihu](https://zhuanlan.zhihu.com/p/710644612) in Chinese. The current version has been expanded and formatted with the assistance of @Leo-T-Zang.
+> For labs in Mainland China, please refer to the original Zhihu post [here](https://zhuanlan.zhihu.com/p/710553716).
+
+
 
 ## Table of Contents
 
@@ -533,7 +538,7 @@ For Labs in China, please refer to add link.
 ### University of Florida
 
 <details>
-<summary>Wenjun Xi</summary>
+<summary>Wenjun Xie</summary>
 
 - Lab website: [Link](https://pharmacy.ufl.edu/profile/xie-wenjun/)
 </details>
