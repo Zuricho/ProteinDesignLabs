@@ -382,6 +382,12 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [Link](https://pratt.duke.edu/people/philip-romero/)
 </details>
 
+<details>
+<summary>Rohit Singh</summary>
+
+- Lab website: [Link]((https://singhlab.net/)
+</details>
+
 ### John Hopkins University
 
 <details>
