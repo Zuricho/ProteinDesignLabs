@@ -4,7 +4,7 @@
 
 🤩 Welcome to our curated list of computational protein design research labs! 
 
-This list serves as a public reference for labs engaged in computational protein design research. While we've made every effort to be comprehensive, our knowledge may be limited. We welcome suggestions for additions – please feel free to open new issues, and we'll update the list accordingly.
+This list serves as a public reference for labs engaged in computational protein design research. While we've made every effort to be comprehensive, our knowledge may be limited (mostly limited to labs in the US and China). We welcome suggestions for additions – please feel free to open new issues, and we'll update the list accordingly.
 
 > 📝 Note: The list was based on @[Zuricho](https://github.com/Zuricho)'s post on [Zhihu](https://zhuanlan.zhihu.com/p/710644612) in Chinese. The current version has been expanded and formatted with the assistance of @[Leo-T-Zang](https://github.com/Leo-T-Zang).
 
@@ -663,6 +663,40 @@ This list serves as a public reference for labs engaged in computational protein
 </details>
 
 
+### KAIST
+
+<details>
+<summary>Ji-Joon Song</summary>
+
+- Lab website: [Link](https://www.song-kaist.org)
+</details>
+
+
+<details>
+<summary>Byung-Ha Oh</summary>
+
+- Lab website: [Link](https://sites.google.com/view/tpdsb/home?authuser=0)
+</details>
+
+
+### POSTECH
+
+<details>
+<summary>Sangmin Lee</summary>
+
+- Lab website: [Link](https://sites.google.com/view/pdl-postech)
+</details>
+
+
+### IBS
+
+<details>
+<summary>Ho Min Kim</summary>
+
+- Lab website: [Link](https://protein.ibs.re.kr/people/chief-investigator)
+</details>
+
+
 ## United Kingdom
 
 ### University of Cambridge
@@ -691,6 +725,31 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Yarin Gal</summary>
 
 - Lab website: [Yarin Gal - Home Page | Oxford Machine Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/)
+</details>
+
+
+### UCL
+
+<details>
+<summary>David T. Jones</summary>
+
+- Lab website: [Link](http://www0.cs.ucl.ac.uk/staff/d.jones/)
+</details>
+
+
+### University of Edinburgh
+
+<details>
+<summary>Chris Wells Wood</summary>
+
+- Lab website: [Link](https://www.wellswoodresearchgroup.com/)
+</details>
+
+
+<details>
+<summary>Lynne Regan</summary>
+
+- Lab website: [Link](https://regan.bio.ed.ac.uk/)
 </details>
 
 ## Switzerland
