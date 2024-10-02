@@ -68,6 +68,7 @@ This list serves as a public reference for labs engaged in computational protein
   - [Spain](#spain)
   - [Hongkong](#hongkong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
+    - [HKUST](#hkust)
   - [China Mainland](#china-mainland)
     - [Peking University 北京大学](#peking-university-北京大学)
     - [Tsinghua University 清华大学](#tsinghua-university-清华大学)
