@@ -12,55 +12,79 @@ This list serves as a public reference for labs engaged in computational protein
 
 ## Table of Contents
 
-- [United States](#united-states)
-  - [MIT](#mit)
-  - [Harvard University](#harvard-university)
-  - [Stanford University](#stanford-university)
-  - [University of Washington](#university-of-washington)
-  - [UCSF](#ucsf)
-  - [UC Berkeley](#uc-berkeley)
-  - [UCLA](#ucla)
-  - [Caltech](#caltech)
-  - [University of Chicago](#university-of-chicago)
-  - [UIUC](#uiuc)
-  - [Scripps Research Institute](#scripps-research-institute)
-  - [Princeton University](#princeton-university)
-  - [Duke University](#duke-university)
-  - [John Hopkins University](#john-hopkins-university)
-  - [Carnegie Mellon University](#carnegie-mellon-university)
-  - [Northwestern University](#northwestern-university)
-  - [UNC Chapel Hill](#unc-chapel-hill)
-  - [Dartmouth College](#dartmouth-college)
-  - [Columbia University](#columbia-university)
-  - [NYU](#nyu)
-  - [Northeastern University](#northeastern-university)
-  - [Texas A&M University](#texas-am-university)
-  - [UCSB](#ucsb)
-  - [UCSC](#ucsc)
-  - [UT Southwestern](#ut-southwestern)
-  - [University of Wisconsin-Madison](#university-of-wisconsin-madison)
-  - [University of Alabama at Birmingham](#university-of-alabama-at-Birmingham)
-  - [University of Florida](#university-of-florida)
-  - [Georgia Institute of Technology](#georgia-institute-of-technology)
-- [Canada](#canada)
-  - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
-  - [University of Toronto](#university-of-toronto)
-- [Singapore](#singapore)
-  - [National University of Singapore](#national-university-of-singapore)
-- [Korea](#korea)
-  - [Seoul National University](#seoul-national-university)
-- [United Kingdom](#united-kingdom)
-  - [University of Cambridge](#university-of-cambridge)
-  - [University of Oxford](#university-of-oxford)
-- [Switzerland](#switzerland)
-  - [ETH Zurich](#eth-zurich)
-  - [EPFL](#epfl)
-- [Germany](#germany)
-  - [TUM](#tum)
-- [Spain](#spain)
-- [HongKong](#hongkong)
-  - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
-- [China Mainland](#china-mainland)
+- [Protein Design Labs](#protein-design-labs)
+  - [Table of Contents](#table-of-contents)
+  - [United States](#united-states)
+    - [MIT](#mit)
+    - [Harvard University](#harvard-university)
+    - [Stanford University](#stanford-university)
+    - [University of Washington](#university-of-washington)
+    - [UCSF](#ucsf)
+    - [UC Berkeley](#uc-berkeley)
+    - [UCLA](#ucla)
+    - [Caltech](#caltech)
+    - [University of Chicago](#university-of-chicago)
+    - [UIUC](#uiuc)
+    - [Scripps Research Institute](#scripps-research-institute)
+    - [Princeton University](#princeton-university)
+    - [Duke University](#duke-university)
+    - [John Hopkins University](#john-hopkins-university)
+    - [Carnegie Mellon University](#carnegie-mellon-university)
+    - [Northwestern University](#northwestern-university)
+    - [UNC Chapel Hill](#unc-chapel-hill)
+    - [Dartmouth College](#dartmouth-college)
+    - [Columbia University](#columbia-university)
+    - [New York University](#new-york-university)
+    - [Northeastern University](#northeastern-university)
+    - [Texas A\&M University](#texas-am-university)
+    - [UCSB](#ucsb)
+    - [UCSC](#ucsc)
+    - [UT Southwestern](#ut-southwestern)
+    - [University of Wisconsin-Madison](#university-of-wisconsin-madison)
+    - [University of Alabama at Birmingham](#university-of-alabama-at-birmingham)
+    - [University of Florida](#university-of-florida)
+    - [Georgia Institute of Technology](#georgia-institute-of-technology)
+  - [Canada](#canada)
+    - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
+    - [University of Toronto](#university-of-toronto)
+  - [Singapore](#singapore)
+    - [National University of Singapore](#national-university-of-singapore)
+  - [Korea](#korea)
+    - [Seoul National University](#seoul-national-university)
+  - [United Kingdom](#united-kingdom)
+    - [University of Cambridge](#university-of-cambridge)
+    - [University of Oxford](#university-of-oxford)
+  - [Switzerland](#switzerland)
+    - [ETH Zurich](#eth-zurich)
+    - [EPFL](#epfl)
+  - [Germany](#germany)
+    - [TUM](#tum)
+  - [Spain](#spain)
+  - [Hongkong](#hongkong)
+    - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
+  - [China Mainland](#china-mainland)
+    - [Peking University 北京大学](#peking-university-北京大学)
+    - [Tsinghua University 清华大学](#tsinghua-university-清华大学)
+    - [CAS ICT 中国科学院计算技术研究所](#cas-ict-中国科学院计算技术研究所)
+    - [Renmin University of China 中国人民大学](#renmin-university-of-china-中国人民大学)
+    - [Shanghai Jiao Tong University 上海交通大学](#shanghai-jiao-tong-university-上海交通大学)
+    - [Fudan University 复旦大学](#fudan-university-复旦大学)
+    - [ShanghaiTech University 上海科技大学](#shanghaitech-university-上海科技大学)
+    - [CAS SIMM 中国科学院上海药物研究所](#cas-simm-中国科学院上海药物研究所)
+    - [CAS CEMCS 中国科学院分子细胞科学卓越创新中心](#cas-cemcs-中国科学院分子细胞科学卓越创新中心)
+    - [Zhejiang University 浙江大学](#zhejiang-university-浙江大学)
+    - [Westlake University 西湖大学](#westlake-university-西湖大学)
+    - [Zhejiang University of Technology 浙江工业大学](#zhejiang-university-of-technology-浙江工业大学)
+    - [Sun Yat-sen University 中山大学](#sun-yat-sen-university-中山大学)
+    - [CAS SIAT 深圳先进技术研究院](#cas-siat-深圳先进技术研究院)
+    - [Tsinghua SIGS 清华大学深圳国际研究生院](#tsinghua-sigs-清华大学深圳国际研究生院)
+    - [SUSTech 南方科技大学](#sustech-南方科技大学)
+    - [USTC 中国科学技术大学](#ustc-中国科学技术大学)
+    - [Xiamen University 厦门大学](#xiamen-university-厦门大学)
+    - [Shandong University 山东大学](#shandong-university-山东大学)
+    - [CAS TIB 中国科学院天津工业生物技术研究所](#cas-tib-中国科学院天津工业生物技术研究所)
+
+
 
 ## United States
 
@@ -82,11 +106,13 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Regina Barzilay</summary>
 
 - Lab website: [Link](https://www.regina.csail.mit.edu/)
-- Related paper: CLIPZyme: [arXiv:2402.06748](http://arxiv.org/abs/2402.06748)
+- Related paper:
+  - CLIPZyme: [arXiv:2402.06748](http://arxiv.org/abs/2402.06748)
 </details>
 
+
 <details>
-<summary>Tess Smidt</summary>
+<summary>Tess E. Smidt</summary>
 
 - Lab website: [Link](https://blondegeek.github.io/)
 </details>
@@ -102,13 +128,13 @@ This list serves as a public reference for labs engaged in computational protein
 
 - Lab website: NA
 - Related papers:
-  - [ESM3: Simulating 500 million years of evolution with a language model](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
+  - [ESM3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
   - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
   - [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118)
-</details>
+  </details>
 
 <details>
-<summary>Amy Keating</summary>
+<summary>Amy E. Keating</summary>
 
 - Lab website: [Link](https://biology.mit.edu/profile/amy-e-keating/)
 </details>
@@ -125,7 +151,7 @@ This list serves as a public reference for labs engaged in computational protein
   - [CoVES](https://www.nature.com/articles/s41467-024-45621-4)
   - [ProteinGym](https://www.biorxiv.org/content/10.1101/2023.12.07.570727v1)
   - [Evolutionary Couplings](https://www.nature.com/articles/s41467-024-45621-4)
-</details>
+  </details>
 
 <details>
 <summary>Nicholas F. Polizzi</summary>
@@ -270,7 +296,7 @@ This list serves as a public reference for labs engaged in computational protein
 - Related papers:
   - [LM-design](https://proceedings.mlr.press/v202/zheng23a.html)
   - [DPLM](https://arxiv.org/abs/2402.18567)
-</details>
+  </details>
 
 <details>
 <summary>Lin Jiang</summary>
@@ -304,7 +330,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Rama Ranganathan</summary>
 
 - Lab website: [Ranganathan Lab](http://ranganathanlab.org/)
-- Related paper: [Evolution-based design](https://www.science.org/doi/10.1126/science.aba3304)
+- Related paper: 
+  - [Evolution-based design](https://www.science.org/doi/10.1126/science.aba3304)
 </details>
 
 <details>
@@ -312,7 +339,8 @@ This list serves as a public reference for labs engaged in computational protein
 
 - Lab website: [Ferguson Lab](https://www.ferglab.com/)
 - Personal website: [Andrew Ferguson](https://pme.uchicago.edu/faculty/andrew-ferguson)
-- Related paper: [SH3 design](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00204-7#%20)
+- Related paper: 
+  - [SH3 design](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00204-7#%20)
 </details>
 
 ### UIUC
@@ -378,7 +406,7 @@ This list serves as a public reference for labs engaged in computational protein
 </details>
 
 <details>
-<summary>Philip A Romero</summary>
+<summary>Philip A. Romero</summary>
 
 - Lab website: [Link](https://pratt.duke.edu/people/philip-romero/)
 </details>
@@ -392,7 +420,7 @@ This list serves as a public reference for labs engaged in computational protein
 ### John Hopkins University
 
 <details>
-<summary>Jeffery J Gray</summary>
+<summary>Jeffrey J. Gray</summary>
 
 - Lab website: [Link](https://graylab.jhu.edu/)
 </details>
@@ -406,12 +434,12 @@ This list serves as a public reference for labs engaged in computational protein
 - Related papers:
   - [SurfPro](https://arxiv.org/abs/2405.06693)
   - [EnzyGen](https://arxiv.org/abs/2405.08205)
-</details>
+  </details>
 
 ### Northwestern University
 
 <details>
-<summary>Gabriel J Rocklin</summary>
+<summary>Gabriel J. Rocklin</summary>
 
 - Lab website: [Link](http://www.rocklinlab.org/)
 </details>
@@ -464,7 +492,7 @@ This list serves as a public reference for labs engaged in computational protein
 - Personal website: [Anum Glasgow](https://www.biochem.cuimc.columbia.edu/profile/anum-glasgow-phd)
 </details>
 
-### NYU
+### New York University
 
 <details>
 <summary>Jin Kim Montclare</summary>
@@ -476,14 +504,15 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Kyunghyun Cho</summary>
 
 - Lab website: [Link](https://kyunghyuncho.me/)
-- Related paper: [OpenReview](https://openreview.net/forum?id=MfiK69Ga6p)
+- Related paper: 
+  - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
 </details>
 
 <details>
 <summary>Andrew Gordon Wilson</summary>
 
 - Lab website: [Link](https://cims.nyu.edu/~andrewgw/)
-- Related paper: [OpenReview](https://openreview.net/forum?id=MfiK69Ga6p)
+  - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
 </details>
 
 ### Northeastern University
@@ -596,8 +625,8 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [The Yang Zhang Lab](https://zhanggroup.org/)
 - Related papers:
   - [EvoDesign](https://doi.org/10.1016/j.jmb.2019.02.028)
-  - [EvoEF2: accurate and fast energy function for computational protein design](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
-</details>
+  - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
+  </details>
 
 ## Korea
 
@@ -610,7 +639,7 @@ This list serves as a public reference for labs engaged in computational protein
 </details>
 
 <details>
-<summary>MINKYUNG BAEK</summary>
+<summary>Minkyung Baek</summary>
 
 - Lab website: [Link](https://biosci.snu.ac.kr/en/people/faculty?mode=view&profidx=101)
 </details>
@@ -622,7 +651,7 @@ This list serves as a public reference for labs engaged in computational protein
 
 <details>
 <summary>Pietro Liò</summary>
-  
+
 - Lab website: [Link](https://www.cl.cam.ac.uk/~pl219/)
 </details>
 
@@ -630,7 +659,7 @@ This list serves as a public reference for labs engaged in computational protein
 
 <details>
 <summary>Michael Bronstein</summary>
-  
+
 - Lab website: [Link](https://www.cs.ox.ac.uk/people/michael.bronstein/)
 </details>
 
@@ -661,7 +690,7 @@ This list serves as a public reference for labs engaged in computational protein
 
 <details>
 <summary>Bruno E. Correia</summary>
-  
+
 - Lab website: [Link](https://www.epfl.ch/labs/lpdi/)
 </details>
 
@@ -704,297 +733,291 @@ This list serves as a public reference for labs engaged in computational protein
 
 ## China Mainland
 
-### 北京大学
+### Peking University 北京大学
 
 <details>
-<summary>来鲁华</summary>
+<summary>Luhua Lai 来鲁华</summary>
 
 - Lab website: [Link](http://mdl.ipc.pku.edu.cn)
 - Related Papers: [Angew 2024] GeoSeqBuilder: https://onlinelibrary.wiley.com/doi/10.1002/anie.202411461
 </details>
 
 <details>
-<summary>高毅勤</summary>
+<summary>Yi Qin Gao 高毅勤</summary>
 
 - Lab website: [Link](https://www.chem.pku.edu.cn/gaoyq/)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>王初</summary>
+<summary>Chu Wang 王初</summary>
 
 - Lab website: [Link](https://www.chem.pku.edu.cn/wangchu/)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>张文涛</summary>
+<summary>Wentao Zhang 张文涛</summary>
 
 - Lab website: [Link](https://zwt233.github.io/)
 - Related Papers: [ACL 2024] ProtLLM: ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training
 </details>
 
-### 清华大学
+### Tsinghua University 清华大学
 <details>
-<summary>龚海鹏</summary>
+<summary>Haipeng Gong 龚海鹏</summary>
 
 - Lab website: [Link](https://life.tsinghua.edu.cn/info/1034/2290.htm)
 - Related Papers: [NatComm 2024] SPIRED: https://www.nature.com/articles/s41467-024-51776-x
 </details>
 
 <details>
-<summary>徐纯福</summary>
+<summary>Chunfu Xu 徐纯福</summary>
 
 - Lab website: [Link](https://www.tsinghua.edu.cn/info/1339/88041.htm)
 - Related Papers: [Nature 2020] Transmembrane pore design: https://www.nature.com/articles/s41586-020-2646-5
 </details>
 
 <details>
-<summary>马剑竹</summary>
+<summary>Jianzhu Ma 马剑竹</summary>
 
 - Lab website: [Link](https://majianzhu.com/)
 - Related Papers: [NeurlPS 2022] DiffAb: https://www.biorxiv.org/content/10.1101/2022.07.10.499510.abstract
 </details>
 
 <details>
-<summary>刘洋</summary>
+<summary>Yang Liu 刘洋</summary>
 
 - Lab website: [Link](https://sites.google.com/view/thuliuyang/)
 - Related Papers: [ICLR 2023] Antibody design: https://arxiv.org/abs/2208.06073
 </details>
 
 <details>
-<summary>兰艳艳</summary>
+<summary>Yanyan Lan 兰艳艳</summary>
 
 - Lab website: [Link](https://www.tsinghua.edu.cn/en/info/1309/13114.htm)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>周浩</summary>
+<summary>Hao Zhou 周浩</summary>
 
 - Lab website: [Link](https://zhouh.github.io/)
 - Related Papers: [ICML 2024] ESM-AA: https://arxiv.org/abs/2403.12995
 </details>
 
-### 中国科学院计算技术研究所
+### CAS ICT 中国科学院计算技术研究所
 <details>
-<summary>卜东波</summary>
+<summary>Dongbo Bu 卜东波</summary>
 
 - Lab website: [Link](https://people.ucas.ac.cn/~budongbo)
 - Related Papers: [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
 </details>
 
 <details>
-<summary>张海仓</summary>
+<summary>Haicang Zhang 张海仓</summary>
 
 - Lab website: [Link](https://people.ucas.ac.cn/~zhanghaicang)
 - Related Papers: [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
 </details>
 
-### 中国人民大学
+### Renmin University of China 中国人民大学
 <details>
-<summary>黄文炳</summary>
+<summary>Wenbing Huang 黄文炳</summary>
 
 - Lab website: [Link](https://info.ruc.edu.cn/academic_professor.php?teacher_id=208)
 - Related Papers: [ICML 2023] Antibody design: https://arxiv.org/abs/2302.00203
 </details>
 
-### 上海交通大学
+### Shanghai Jiao Tong University 上海交通大学
 <details>
-<summary>洪亮</summary>
+<summary>Liang Hong 洪亮</summary>
 
 - Lab website: [Link](http://www.hongliang-lab.com/)
 - Related Papers: [Cell Discovery 2024] CPDiffusion: https://www.nature.com/articles/s41421-024-00728-2, [arXiv] CPDiffusion-SS: https://arxiv.org/abs/2407.07443
 </details>
 
 <details>
-<summary>陈海峰</summary>
+<summary>Haifeng Cheng 陈海峰</summary>
 
 - Lab website: [Link](https://www.bio.sjtu.edu.cn/teacher/86)
 - Related Papers: [bib 2024] GPD: Graphormer supervised de novo protein design method and function validation
 </details>
 
 <details>
-<summary>郑双佳</summary>
+<summary>Shuangjia Zheng 郑双佳</summary>
 
 - Lab website: [Link](https://shuangjia.tech/)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>杨旸</summary>
+<summary>Yang Yang 杨旸</summary>
 
 - Lab website: [Link](http://yangyangfudan.github.io/yangyangsjtu/)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>沈红斌</summary>
+<summary>Hongbin Shen 沈红斌</summary>
 
 - Lab website: [Link](http://www.cs.sjtu.edu.cn/~hbshen/)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>庆睿</summary>
+<summary>Rui Qing 庆睿</summary>
 
 - Lab website: [Link](https://www.bio.sjtu.edu.cn/teacher/132)
 - Related Papers: [NatComm 2024] QTY code: https://www.nature.com/articles/s41467-024-48513-9, [Chem Rev 2023] Review: https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00757
 </details>
 
 <details>
-<summary>王宇光</summary>
+<summary>Yuguang Wang 王宇光</summary>
 
 - Lab website: [Link](https://yuguangwang.github.io/)
 - Related Papers: [NeurIPS 2023] GraDe-IF: https://arxiv.org/abs/2306.16819
 </details>
 
-### 复旦大学
+### Fudan University 复旦大学
 <details>
-<summary>孙思琦</summary>
+<summary>Siqi Sun 孙思琦</summary>
 
 - Lab website: [Link](https://istbi.fudan.edu.cn/info/1138/2083.htm)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>马剑鹏</summary>
+<summary>Jianpeng Ma 马剑鹏</summary>
 
 - Lab website: [Link](https://www.bio.fudan.edu.cn/13508/list.htm)
 - Related Papers: [bioRxiv 2024] https://www.biorxiv.org/content/10.1101/2024.08.20.608889v1.full
 </details>
 
-### 上海科技大学
+### ShanghaiTech University 上海科技大学
 <details>
-<summary>豆佳宜</summary>
+<summary>Jiayi Dou 豆佳宜</summary>
 
 - Lab website: [Link](https://slst.shanghaitech.edu.cn/2020/0707/c7499a53873/page.htm)
 - Related Papers: [Nature 2018] β-barrel design: https://www.nature.com/articles/s41586-018-0509-0
 </details>
 
 <details>
-<summary>白芳</summary>
+<summary>Fang Bai 白芳</summary>
 
 - Lab website: [Link](https://slst.shanghaitech.edu.cn/2020/0707/c7499a53855/page.htm)
-- Related Papers: 待补充
 </details>
 
-### 中国科学院上海药物研究所
+### CAS SIMM 中国科学院上海药物研究所
 <details>
-<summary>郑明月</summary>
+<summary>Mingyue Zheng 郑明月</summary>
 
 - Lab website: [Link](https://people.ucas.ac.cn/~zhengmingyue)
-- Related Papers: 待补充
 </details>
 
-### 中国科学院分子细胞科学卓越创新中心
+### CAS CEMCS 中国科学院分子细胞科学卓越创新中心
 <details>
-<summary>张少庆</summary>
+<summary>Shaoqing Zhang 张少庆</summary>
 
-- Lab website: [Link](http://www.sibcb.ac.cn/zhangshaoqing/index.html)
+- Lab website: [Link](http://zhanglab.sibcb.ac.cn)
 - Related Papers: [JACS 2018] 设计含有金属离子簇的蛋白：https://pubs.acs.org/doi/10.1021/jacs.7b08261
 </details>
 
-### 浙江大学
+### Zhejiang University 浙江大学
 <details>
-<summary>侯廷军</summary>
+<summary>Tingjun Hou 侯廷军</summary>
 
 - Lab website: [Link](http://www.pharmacy.zju.edu.cn/houlab/)
-- Related Papers: 待补充
 </details>
 
-### 西湖大学
+### Westlake University 西湖大学
 <details>
-<summary>原发杰</summary>
+<summary>Fajie Yuan 原发杰</summary>
 
 - Lab website: [Link](https://fajieyuan.github.io/)
 - Related Papers: [ICLR 2024] SaProt: https://www.biorxiv.org/content/10.1101/2023.10.01.560349.abstract
 </details>
 
 <details>
-<summary>曹龙兴</summary>
+<summary>Longxin Cao 曹龙兴</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/longxing-cao.html)
 - Related Papers: [Nature 2022] RifGen/RifDock: https://www.nature.com/articles/s41586-022-04654-9, [Science 2020] SARS-CoV-2 minibinder design: https://www.science.org/doi/full/10.1126/science.abd9909
 </details>
 
 <details>
-<summary>陈子博</summary>
+<summary>Zibo Chen 陈子博</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/zibo-chen.html)
 - Related Papers: [Science 2020] Logic gate design: https://www.science.org/doi/full/10.1126/science.aay2790, [Nature 2019] Orthogonal protein heterodimers design: https://www.nature.com/articles/s41586-018-0802-y
 </details>
 
 <details>
-<summary>卢培龙</summary>
+<summary>Peilong Lu 卢培龙</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/peilong-lu.html)
 - Related Papers: [Science 2018] Transmembrane protein design: https://www.science.org/doi/full/10.1126/science.aaq1739
 </details>
 
 <details>
-<summary>曾坚阳</summary>
+<summary>Jianyang Zeng 曾坚阳</summary>
 
 - Lab website: [Link](https://zenglab.org/)
-- Related Papers: 待补充
 </details>
 
 <details>
-<summary>李子青</summary>
+<summary>Stan Z. Li 李子青</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/stan-z-li.html)
 - Related Papers: [ICLR 2023] PiFold: https://arxiv.org/abs/2209.12643
 </details>
 
-### 浙江工业大学
+### Zhejiang University of Technology 浙江工业大学
 <details>
-<summary>张贵军</summary>
+<summary>Guijun Zhang 张贵军</summary>
 
 - Lab website: [Link](https://person.zju.edu.cn/guijunzhang)
-- Related Papers: 待补充
 </details>
 
-### 深圳先进技术研究院
+### Sun Yat-sen University 中山大学
 <details>
-<summary>罗小舟</summary>
+<summary>Yuedong Yang 杨跃东</summary>
+
+- Lab website: [Link](https://cse.sysu.edu.cn/content/2951)
+</details>
+
+### CAS SIAT 深圳先进技术研究院
+<details>
+<summary>Xiaozhou Luo 罗小舟</summary>
 
 - Lab website: [Link](https://people.ucas.ac.cn/~luoxiaozhou)
-- Related Papers: 待补充
 </details>
 
-### 清华大学深圳国际研究生院
+### Tsinghua SIGS 清华大学深圳国际研究生院
 <details>
-<summary>李斐然</summary>
+<summary>Feiran Li 李斐然</summary>
 
 - Lab website: [Link](https://www.sigs.tsinghua.edu.cn/fr/2020/0814/c7736a22201/page.htm)
 - Related Papers: [Nat Catalysis] DLKcat: https://www.nature.com/articles/s41929-022-00798-z
 </details>
 
-### 南方科技大学
+### SUSTech 南方科技大学
 <details>
-<summary>李喆</summary>
+<summary>Zhe Li 李喆</summary>
 
-- Lab website: [Link](https://faculty.sustech.edu.cn/liz/)
+- Lab website: [Link](https://sustech.edu.cn/zh/faculties/lizhe.html)
 - Related Papers: [Nat Materials] 蛋白质晶体设计：https://www.nature.com/articles/s41563-023-01683-1
 </details>
 
-### 中国科学技术大学
+### USTC 中国科学技术大学
 <details>
-<summary>刘海燕</summary>
+<summary>Haiyan Liu 刘海燕</summary>
 
 - Lab website: [Link](https://professor.ustc.edu.cn/liuhy/)
 - Related Papers: [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6, [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
 </details>
 
 <details>
-<summary>刘淇</summary>
+<summary>Qi Liu 刘淇</summary>
 
 - Lab website: [Link](http://staff.ustc.edu.cn/~qiliuql/)
 - Related Papers: [NeurIPS 2023] FAIR: https://arxiv.org/abs/2310.02553
 </details>
 
-### 厦门大学
+### Xiamen University 厦门大学
 <details>
 <summary>闵小平</summary>
 
@@ -1002,15 +1025,14 @@ This list serves as a public reference for labs engaged in computational protein
 - Related Papers: [Structure 2024]: https://doi.org/10.1016/j.str.2024.07.016
 </details>
 
-### 山东大学
+### Shandong University 山东大学
 <details>
 <summary>杨建益</summary>
 
 - Lab website: [Link](http://www.yanglab.org/)
-- Related Papers: 待补充
 </details>
 
-### 中国科学院天津工业生物技术研究所
+### CAS TIB 中国科学院天津工业生物技术研究所
 <details>
 <summary>江会锋</summary>
 
