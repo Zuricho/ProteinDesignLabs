@@ -717,7 +717,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Noelia Ferruz</summary>
 
 - Lab website: [Artificial Intelligence for Protein Design - Noelia Ferruz lab](https://www.aiproteindesign.com/)
-- Related paper: [ZymCTRL: Conditional language models enable the efficient design of proficient enzymes](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
+- Related paper: 
+  - [ZymCTRL: Conditional language models enable the efficient design of proficient enzymes](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
 </details>
 
 ## Hongkong
@@ -739,7 +740,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Luhua Lai 来鲁华</summary>
 
 - Lab website: [Link](http://mdl.ipc.pku.edu.cn)
-- Related Papers: [Angew 2024] GeoSeqBuilder: https://onlinelibrary.wiley.com/doi/10.1002/anie.202411461
+- Related Papers: 
+  - [Angew 2024] GeoSeqBuilder: https://onlinelibrary.wiley.com/doi/10.1002/anie.202411461
 </details>
 
 <details>
@@ -758,7 +760,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Wentao Zhang 张文涛</summary>
 
 - Lab website: [Link](https://zwt233.github.io/)
-- Related Papers: [ACL 2024] ProtLLM: ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training
+- Related Papers: 
+  - [ACL 2024] ProtLLM: ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training
 </details>
 
 ### Tsinghua University 清华大学
@@ -766,28 +769,32 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Haipeng Gong 龚海鹏</summary>
 
 - Lab website: [Link](https://life.tsinghua.edu.cn/info/1034/2290.htm)
-- Related Papers: [NatComm 2024] SPIRED: https://www.nature.com/articles/s41467-024-51776-x
+- Related Papers: 
+  - [NatComm 2024] SPIRED: https://www.nature.com/articles/s41467-024-51776-x
 </details>
 
 <details>
 <summary>Chunfu Xu 徐纯福</summary>
 
 - Lab website: [Link](https://www.tsinghua.edu.cn/info/1339/88041.htm)
-- Related Papers: [Nature 2020] Transmembrane pore design: https://www.nature.com/articles/s41586-020-2646-5
+- Related Papers: 
+  - [Nature 2020] Transmembrane pore design: https://www.nature.com/articles/s41586-020-2646-5
 </details>
 
 <details>
 <summary>Jianzhu Ma 马剑竹</summary>
 
 - Lab website: [Link](https://majianzhu.com/)
-- Related Papers: [NeurlPS 2022] DiffAb: https://www.biorxiv.org/content/10.1101/2022.07.10.499510.abstract
+- Related Papers: 
+  - [NeurlPS 2022] DiffAb: https://www.biorxiv.org/content/10.1101/2022.07.10.499510.abstract
 </details>
 
 <details>
 <summary>Yang Liu 刘洋</summary>
 
 - Lab website: [Link](https://sites.google.com/view/thuliuyang/)
-- Related Papers: [ICLR 2023] Antibody design: https://arxiv.org/abs/2208.06073
+- Related Papers: 
+  - [ICLR 2023] Antibody design: https://arxiv.org/abs/2208.06073
 </details>
 
 <details>
@@ -800,7 +807,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Hao Zhou 周浩</summary>
 
 - Lab website: [Link](https://zhouh.github.io/)
-- Related Papers: [ICML 2024] ESM-AA: https://arxiv.org/abs/2403.12995
+- Related Papers: 
+  - [ICML 2024] ESM-AA: https://arxiv.org/abs/2403.12995
 </details>
 
 ### CAS ICT 中国科学院计算技术研究所
@@ -808,14 +816,16 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Dongbo Bu 卜东波</summary>
 
 - Lab website: [Link](https://people.ucas.ac.cn/~budongbo)
-- Related Papers: [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
+- Related Papers: 
+  - [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
 </details>
 
 <details>
 <summary>Haicang Zhang 张海仓</summary>
 
 - Lab website: [Link](https://people.ucas.ac.cn/~zhanghaicang)
-- Related Papers: [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
+- Related Papers: 
+  - [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
 </details>
 
 ### Renmin University of China 中国人民大学
@@ -823,7 +833,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Wenbing Huang 黄文炳</summary>
 
 - Lab website: [Link](https://info.ruc.edu.cn/academic_professor.php?teacher_id=208)
-- Related Papers: [ICML 2023] Antibody design: https://arxiv.org/abs/2302.00203
+- Related Papers: [
+  - ICML 2023] Antibody design: https://arxiv.org/abs/2302.00203
 </details>
 
 ### Shanghai Jiao Tong University 上海交通大学
@@ -831,14 +842,16 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Liang Hong 洪亮</summary>
 
 - Lab website: [Link](http://www.hongliang-lab.com/)
-- Related Papers: [Cell Discovery 2024] CPDiffusion: https://www.nature.com/articles/s41421-024-00728-2, [arXiv] CPDiffusion-SS: https://arxiv.org/abs/2407.07443
+- Related Papers: 
+  - [Cell Discovery 2024] CPDiffusion: https://www.nature.com/articles/s41421-024-00728-2, [arXiv] CPDiffusion-SS: https://arxiv.org/abs/2407.07443
 </details>
 
 <details>
 <summary>Haifeng Cheng 陈海峰</summary>
 
 - Lab website: [Link](https://www.bio.sjtu.edu.cn/teacher/86)
-- Related Papers: [bib 2024] GPD: Graphormer supervised de novo protein design method and function validation
+- Related Papers: 
+  - [bib 2024] GPD: Graphormer supervised de novo protein design method and function validation
 </details>
 
 <details>
@@ -863,14 +876,16 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Rui Qing 庆睿</summary>
 
 - Lab website: [Link](https://www.bio.sjtu.edu.cn/teacher/132)
-- Related Papers: [NatComm 2024] QTY code: https://www.nature.com/articles/s41467-024-48513-9, [Chem Rev 2023] Review: https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00757
+- Related Papers: 
+  - [NatComm 2024] QTY code: https://www.nature.com/articles/s41467-024-48513-9, [Chem Rev 2023] Review: https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00757
 </details>
 
 <details>
 <summary>Yuguang Wang 王宇光</summary>
 
 - Lab website: [Link](https://yuguangwang.github.io/)
-- Related Papers: [NeurIPS 2023] GraDe-IF: https://arxiv.org/abs/2306.16819
+- Related Papers: 
+  - [NeurIPS 2023] GraDe-IF: https://arxiv.org/abs/2306.16819
 </details>
 
 ### Fudan University 复旦大学
@@ -884,7 +899,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Jianpeng Ma 马剑鹏</summary>
 
 - Lab website: [Link](https://www.bio.fudan.edu.cn/13508/list.htm)
-- Related Papers: [bioRxiv 2024] https://www.biorxiv.org/content/10.1101/2024.08.20.608889v1.full
+- Related Papers: 
+  - [bioRxiv 2024] https://www.biorxiv.org/content/10.1101/2024.08.20.608889v1.full
 </details>
 
 ### ShanghaiTech University 上海科技大学
@@ -892,7 +908,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Jiayi Dou 豆佳宜</summary>
 
 - Lab website: [Link](https://slst.shanghaitech.edu.cn/2020/0707/c7499a53873/page.htm)
-- Related Papers: [Nature 2018] β-barrel design: https://www.nature.com/articles/s41586-018-0509-0
+- Related Papers: 
+  - [Nature 2018] β-barrel design: https://www.nature.com/articles/s41586-018-0509-0
 </details>
 
 <details>
@@ -913,7 +930,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Shaoqing Zhang 张少庆</summary>
 
 - Lab website: [Link](http://zhanglab.sibcb.ac.cn)
-- Related Papers: [JACS 2018] 设计含有金属离子簇的蛋白：https://pubs.acs.org/doi/10.1021/jacs.7b08261
+- Related Papers: 
+  - [JACS 2018] 设计含有金属离子簇的蛋白：https://pubs.acs.org/doi/10.1021/jacs.7b08261
 </details>
 
 ### Zhejiang University 浙江大学
@@ -928,28 +946,32 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Fajie Yuan 原发杰</summary>
 
 - Lab website: [Link](https://fajieyuan.github.io/)
-- Related Papers: [ICLR 2024] SaProt: https://www.biorxiv.org/content/10.1101/2023.10.01.560349.abstract
+- Related Papers: 
+  - [ICLR 2024] SaProt: https://www.biorxiv.org/content/10.1101/2023.10.01.560349.abstract
 </details>
 
 <details>
 <summary>Longxin Cao 曹龙兴</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/longxing-cao.html)
-- Related Papers: [Nature 2022] RifGen/RifDock: https://www.nature.com/articles/s41586-022-04654-9, [Science 2020] SARS-CoV-2 minibinder design: https://www.science.org/doi/full/10.1126/science.abd9909
+- Related Papers: 
+  - [Nature 2022] RifGen/RifDock: https://www.nature.com/articles/s41586-022-04654-9, [Science 2020] SARS-CoV-2 minibinder design: https://www.science.org/doi/full/10.1126/science.abd9909
 </details>
 
 <details>
 <summary>Zibo Chen 陈子博</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/zibo-chen.html)
-- Related Papers: [Science 2020] Logic gate design: https://www.science.org/doi/full/10.1126/science.aay2790, [Nature 2019] Orthogonal protein heterodimers design: https://www.nature.com/articles/s41586-018-0802-y
+- Related Papers: 
+  - [Science 2020] Logic gate design: https://www.science.org/doi/full/10.1126/science.aay2790, [Nature 2019] Orthogonal protein heterodimers design: https://www.nature.com/articles/s41586-018-0802-y
 </details>
 
 <details>
 <summary>Peilong Lu 卢培龙</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/peilong-lu.html)
-- Related Papers: [Science 2018] Transmembrane protein design: https://www.science.org/doi/full/10.1126/science.aaq1739
+- Related Papers: 
+  - [Science 2018] Transmembrane protein design: https://www.science.org/doi/full/10.1126/science.aaq1739
 </details>
 
 <details>
@@ -962,7 +984,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Stan Z. Li 李子青</summary>
 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/stan-z-li.html)
-- Related Papers: [ICLR 2023] PiFold: https://arxiv.org/abs/2209.12643
+- Related Papers: 
+  - [ICLR 2023] PiFold: https://arxiv.org/abs/2209.12643
 </details>
 
 ### Zhejiang University of Technology 浙江工业大学
@@ -991,7 +1014,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Feiran Li 李斐然</summary>
 
 - Lab website: [Link](https://www.sigs.tsinghua.edu.cn/fr/2020/0814/c7736a22201/page.htm)
-- Related Papers: [Nat Catalysis] DLKcat: https://www.nature.com/articles/s41929-022-00798-z
+- Related Papers: [
+  - Nat Catalysis] DLKcat: https://www.nature.com/articles/s41929-022-00798-z
 </details>
 
 ### SUSTech 南方科技大学
@@ -999,7 +1023,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Zhe Li 李喆</summary>
 
 - Lab website: [Link](https://sustech.edu.cn/zh/faculties/lizhe.html)
-- Related Papers: [Nat Materials] 蛋白质晶体设计：https://www.nature.com/articles/s41563-023-01683-1
+- Related Papers: 
+  - [Nat Materials] 蛋白质晶体设计：https://www.nature.com/articles/s41563-023-01683-1
 </details>
 
 ### USTC 中国科学技术大学
@@ -1007,14 +1032,16 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Haiyan Liu 刘海燕</summary>
 
 - Lab website: [Link](https://professor.ustc.edu.cn/liuhy/)
-- Related Papers: [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6, [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
+- Related Papers: 
+  - [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6, [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
 </details>
 
 <details>
 <summary>Qi Liu 刘淇</summary>
 
 - Lab website: [Link](http://staff.ustc.edu.cn/~qiliuql/)
-- Related Papers: [NeurIPS 2023] FAIR: https://arxiv.org/abs/2310.02553
+- Related Papers: 
+  - [NeurIPS 2023] FAIR: https://arxiv.org/abs/2310.02553
 </details>
 
 ### Xiamen University 厦门大学
@@ -1022,7 +1049,8 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Xiaoping Min 闵小平</summary>
 
 - Lab website: [Link](https://informatics.xmu.edu.cn/info/1018/2783.htm)
-- Related Papers: [Structure 2024]: https://doi.org/10.1016/j.str.2024.07.016
+- Related Papers: 
+  - [Structure 2024]: https://doi.org/10.1016/j.str.2024.07.016
 </details>
 
 ### Shandong University 山东大学
@@ -1037,5 +1065,7 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Huifeng Jiang 江会锋</summary>
 
 - Lab website: [Link](http://www.tib.cas.cn/jgsz/kyxt/jgx1/jsyjy/jjf/)
-- Related Papers: [BioDesign Research 2024] DeepEvo: https://spj.science.org/doi/full/10.34133/bdr.0031, [Research 2024] P450Diffusion: https://spj.science.org/doi/10.
+- Related Papers: 
+  - [BioDesign Research 2024] DeepEvo: https://spj.science.org/doi/full/10.34133/bdr.0031
+  - [Research 2024] P450Diffusion: https://spj.science.org/doi/10.
 </details>
