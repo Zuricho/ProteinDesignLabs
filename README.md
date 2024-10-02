@@ -41,6 +41,7 @@ This list serves as a public reference for labs engaged in computational protein
   - [University of Wisconsin-Madison](#university-of-wisconsin-madison)
   - [University of Alabama at Birmingham](#university-of-alabama-at-Birmingham)
   - [University of Florida](#university-of-florida)
+  - [Georgia Institute of Technology](#georgia-institute-of-technology)
 - [Canada](#canada)
   - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
   - [University of Toronto](#university-of-toronto)
@@ -550,6 +551,13 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [Link](https://pharmacy.ufl.edu/profile/xie-wenjun/)
 </details>
 
+### Georgia Institute of Technology
+
+<details>
+<summary>Yunan Luo</summary>
+
+- Lab website: [Link](https://faculty.cc.gatech.edu/~yunan/)
+</details>
 
 
 ## Canada
