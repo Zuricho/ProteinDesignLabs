@@ -4,7 +4,11 @@
 
 🤩 Welcome to our curated list of computational protein design research labs! 
 
-This list serves as a public reference for labs engaged in computational protein design research. While we've made every effort to be comprehensive, our knowledge may be limited (mostly limited to labs in the US and China). We welcome suggestions for additions – please feel free to open new issues, and we'll update the list accordingly.
+This list serves as a public reference for labs engaged in computational protein design research. While we've made every effort to be comprehensive, our knowledge may be limited (mostly limited to labs in the US and China). 
+
+We apologize if we've missed your lab or labs you're familiar with.
+
+We welcome suggestions for additions – please feel free to open new issues, and we'll update the list accordingly.
 
 > 📝 Note: The list was based on @[Zuricho](https://github.com/Zuricho)'s post on [Zhihu](https://zhuanlan.zhihu.com/p/710644612) in Chinese. The current version has been expanded and formatted with the assistance of @[Leo-T-Zang](https://github.com/Leo-T-Zang).
 
