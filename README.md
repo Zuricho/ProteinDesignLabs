@@ -1019,7 +1019,7 @@ This list serves as a public reference for labs engaged in computational protein
 
 ### Xiamen University 厦门大学
 <details>
-<summary>闵小平</summary>
+<summary>Xiaoping Min 闵小平</summary>
 
 - Lab website: [Link](https://informatics.xmu.edu.cn/info/1018/2783.htm)
 - Related Papers: [Structure 2024]: https://doi.org/10.1016/j.str.2024.07.016
@@ -1027,14 +1027,14 @@ This list serves as a public reference for labs engaged in computational protein
 
 ### Shandong University 山东大学
 <details>
-<summary>杨建益</summary>
+<summary>Jianyi Yang 杨建益</summary>
 
 - Lab website: [Link](http://www.yanglab.org/)
 </details>
 
 ### CAS TIB 中国科学院天津工业生物技术研究所
 <details>
-<summary>江会锋</summary>
+<summary>Huifeng Jiang 江会锋</summary>
 
 - Lab website: [Link](http://www.tib.cas.cn/jgsz/kyxt/jgx1/jsyjy/jjf/)
 - Related Papers: [BioDesign Research 2024] DeepEvo: https://spj.science.org/doi/full/10.34133/bdr.0031, [Research 2024] P450Diffusion: https://spj.science.org/doi/10.
