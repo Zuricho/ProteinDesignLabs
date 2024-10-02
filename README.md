@@ -59,6 +59,7 @@ This list serves as a public reference for labs engaged in computational protein
     - [University of Oxford](#university-of-oxford)
     - [UCL](#ucl)
     - [University of Edinburgh](#university-of-edinburgh)
+    - [University of Bristol](#university-of-bristol)
   - [Switzerland](#switzerland)
     - [ETH Zurich](#eth-zurich)
     - [EPFL](#epfl)
@@ -757,6 +758,16 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [Link](https://regan.bio.ed.ac.uk/)
 </details>
 
+### University of Bristol
+
+<details>
+<summary>Dek Woolfson</summary>
+
+- Lab website: [Link](https://woolfsonlab.wordpress.com/)
+</details>
+
+
+
 ## Switzerland
 
 ### ETH Zurich
@@ -811,6 +822,14 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Yu Li</summary>
 
 - Lab website: [Link](https://liyu95.com/)
+</details>
+
+### HKUST
+
+<details>
+<summary>Danqing Zhu</summary>
+
+- Lab website: [Link](https://www.danqing-zhu.com/)
 </details>
 
 
