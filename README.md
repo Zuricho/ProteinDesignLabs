@@ -139,6 +139,12 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [Link](https://biology.mit.edu/profile/amy-e-keating/)
 </details>
 
+<details>
+<summary>James J. Collins</summary>
+
+- Lab website: [Link](https://www.collinslab.mit.edu/)
+</details>
+
 ### Harvard University
 
 <details>
@@ -175,6 +181,13 @@ This list serves as a public reference for labs engaged in computational protein
 <summary>Yilun Du</summary>
 
 - Lab website: [Link](https://yilundu.github.io/)
+</details>
+
+
+<details>
+<summary>Omar Abudayyeh & Jonathan Gootenberg</summary>
+
+- Lab website: [Link](https://www.abugootlab.org/)
 </details>
 
 ### Stanford University
@@ -215,6 +228,11 @@ This list serves as a public reference for labs engaged in computational protein
 - Lab website: [Link](https://drorlab.stanford.edu/)
 </details>
 
+<details>
+<summary>James Zou</summary>
+
+- Lab website: [Link](https://www.james-zou.com/)
+</details>
 
 ### University of Washington
 
