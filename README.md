@@ -64,6 +64,8 @@ We welcome suggestions for additions – please feel free to open new issues, an
     - [UCL](#ucl)
     - [University of Edinburgh](#university-of-edinburgh)
     - [University of Bristol](#university-of-bristol)
+  - [Ireland](#ireland)
+    - [University College Cork](#university-college-cork)
   - [Switzerland](#switzerland)
     - [ETH Zurich](#eth-zurich)
     - [EPFL](#epfl)
@@ -772,6 +774,16 @@ We welcome suggestions for additions – please feel free to open new issues, an
 </details>
 
 
+## Ireland
+
+### University College Cork
+
+
+<details>
+<summary>Sabin Tabirca</summary>
+
+- Lab website: [Link](https://crr.ucc.ie/)
+</details>
 
 ## Switzerland
 
