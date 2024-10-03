@@ -16,6 +16,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 - [Protein Design Labs](#protein-design-labs)
   - [Table of Contents](#table-of-contents)
+  - [#North America](#north-america)
   - [:us: United States](#us-united-states)
     - [MIT](#mit)
     - [Harvard University](#harvard-university)
@@ -51,13 +52,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
-  - [:singapore: Singapore](#singapore-singapore)
-    - [National University of Singapore](#national-university-of-singapore)
-  - [:kr: South Korea](#kr-south-korea)
-    - [Seoul National University](#seoul-national-university)
-    - [KAIST](#kaist)
-    - [POSTECH](#postech)
-    - [IBS](#ibs)
+  - [#Europe](#europe)
   - [:uk: United Kingdom](#uk-united-kingdom)
     - [University of Cambridge](#university-of-cambridge)
     - [University of Oxford](#university-of-oxford)
@@ -76,6 +71,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:es: Spain](#es-spain)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
+  - [#Asia](#asia)
+  - [:singapore: Singapore](#singapore-singapore)
+    - [National University of Singapore](#national-university-of-singapore)
+  - [:kr: South Korea](#kr-south-korea)
+    - [Seoul National University](#seoul-national-university)
+    - [KAIST](#kaist)
+    - [POSTECH](#postech)
+    - [IBS](#ibs)
   - [:hong\_kong: Hong Kong](#hong_kong-hong-kong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
     - [HKUST](#hkust)
@@ -103,6 +106,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [CAS TIB 中国科学院天津工业生物技术研究所](#cas-tib-中国科学院天津工业生物技术研究所)
 
 
+## #North America
 
 ## :us: United States
 
@@ -666,70 +670,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.kimlab.org/)
 </details>
 
-## :singapore: Singapore
 
-### National University of Singapore
-
-<details>
-<summary>Yang Zhang</summary>
-
-- Research focus: Structure prediction
-- Lab website: [The Yang Zhang Lab](https://zhanggroup.org/)
-- Related papers:
-  - [EvoDesign](https://doi.org/10.1016/j.jmb.2019.02.028)
-  - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
-  </details>
-
-## :kr: South Korea
-
-### Seoul National University
-
-<details>
-<summary>Martin Steinegger</summary>
-
-- Lab website: [Link](https://steineggerlab.com/en/)
-</details>
-
-<details>
-<summary>Minkyung Baek</summary>
-
-- Lab website: [Link](https://biosci.snu.ac.kr/en/people/faculty?mode=view&profidx=101)
-</details>
-
-
-### KAIST
-
-<details>
-<summary>Ji-Joon Song</summary>
-
-- Lab website: [Link](https://www.song-kaist.org)
-</details>
-
-
-<details>
-<summary>Byung-Ha Oh</summary>
-
-- Lab website: [Link](https://sites.google.com/view/tpdsb/home?authuser=0)
-</details>
-
-
-### POSTECH
-
-<details>
-<summary>Sangmin Lee</summary>
-
-- Lab website: [Link](https://sites.google.com/view/pdl-postech)
-</details>
-
-
-### IBS
-
-<details>
-<summary>Ho Min Kim</summary>
-
-- Lab website: [Link](https://protein.ibs.re.kr/people/chief-investigator)
-</details>
-
+## #Europe
 
 ## :uk: United Kingdom
 
@@ -886,6 +828,72 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related Paper:
   - [Helical Bundle design](https://www.science.org/doi/abs/10.1126/science.1257481)
   - [ESM-Scan](https://www.biorxiv.org/content/10.1101/2023.12.12.571273v2)
+</details>
+
+## #Asia
+
+## :singapore: Singapore
+
+### National University of Singapore
+
+<details>
+<summary>Yang Zhang</summary>
+
+- Research focus: Structure prediction
+- Lab website: [The Yang Zhang Lab](https://zhanggroup.org/)
+- Related papers:
+  - [EvoDesign](https://doi.org/10.1016/j.jmb.2019.02.028)
+  - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
+  </details>
+
+## :kr: South Korea
+
+### Seoul National University
+
+<details>
+<summary>Martin Steinegger</summary>
+
+- Lab website: [Link](https://steineggerlab.com/en/)
+</details>
+
+<details>
+<summary>Minkyung Baek</summary>
+
+- Lab website: [Link](https://biosci.snu.ac.kr/en/people/faculty?mode=view&profidx=101)
+</details>
+
+
+### KAIST
+
+<details>
+<summary>Ji-Joon Song</summary>
+
+- Lab website: [Link](https://www.song-kaist.org)
+</details>
+
+
+<details>
+<summary>Byung-Ha Oh</summary>
+
+- Lab website: [Link](https://sites.google.com/view/tpdsb/home?authuser=0)
+</details>
+
+
+### POSTECH
+
+<details>
+<summary>Sangmin Lee</summary>
+
+- Lab website: [Link](https://sites.google.com/view/pdl-postech)
+</details>
+
+
+### IBS
+
+<details>
+<summary>Ho Min Kim</summary>
+
+- Lab website: [Link](https://protein.ibs.re.kr/people/chief-investigator)
 </details>
 
 ## :hong_kong: Hong Kong
