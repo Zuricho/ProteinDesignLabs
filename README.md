@@ -48,6 +48,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
     - [University of Alabama at Birmingham](#university-of-alabama-at-birmingham)
     - [University of Florida](#university-of-florida)
     - [Georgia Institute of Technology](#georgia-institute-of-technology)
+    - [University of Delaware](#university-of-delaware)
   - [Canada](#canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
@@ -619,6 +620,14 @@ We welcome suggestions for additions – please feel free to open new issues, an
 - Lab website: [Link](https://faculty.cc.gatech.edu/~yunan/)
 </details>
 
+
+### University of Delaware
+
+<details>
+<summary>Jason Gleghorn</summary>
+
+- Lab website: [Link](https://www.gleghornlab.com/)
+</details>
 
 ## Canada
 
