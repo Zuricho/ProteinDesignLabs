@@ -888,8 +888,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 ### Toulouse Biotechnology Institute
 <details>
 <summary>Sophie Barbe</summary>
-
-- Lab website: [Link](https://miat.inrae.fr/schiex/research.shtml)
 </details>
 
 
