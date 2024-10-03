@@ -67,10 +67,17 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [EPFL](#epfl)
   - [:de: Germany](#de-germany)
     - [TUM](#tum)
+    - [FU Berlin](#fu-berlin)
     - [University of Bayreuth](#university-of-bayreuth)
+  - [:fr: France](#fr-france)
   - [:es: Spain](#es-spain)
+    - [Centre for Genomic Regulation](#centre-for-genomic-regulation)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
+  - [:sweden: Sweden](#sweden-sweden)
+    - [Stockholm University](#stockholm-university)
+  - [:dk: Denmark](#dk-denmark)
+    - [University of Copenhagen](#university-of-copenhagen)
   - [#Asia](#asia)
   - [:singapore: Singapore](#singapore-singapore)
     - [National University of Singapore](#national-university-of-singapore)
@@ -798,6 +805,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Rost Lab](https://www.rostlab.org/)
 </details>
 
+### FU Berlin
+
+<details>
+<summary>Frank Noé</summary>
+
+- Lab website: [Link](https://www.mi.fu-berlin.de/en/math/groups/ai4s/staff/noe/index.html)
+</details>
+
 ### University of Bayreuth
 
 <details>
@@ -806,8 +821,11 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.proteindesign.uni-bayreuth.de/en/index.html)
 </details>
 
+## :fr: France
 
 ## :es: Spain
+
+### Centre for Genomic Regulation
 
 <details>
 <summary>Noelia Ferruz</summary>
@@ -830,6 +848,30 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [ESM-Scan](https://www.biorxiv.org/content/10.1101/2023.12.12.571273v2)
 </details>
 
+## :sweden: Sweden
+
+### Stockholm University
+
+<details>
+<summary>Patrick Bryant</summary>
+
+- Lab website: [Link](https://patrickbryantlab.github.io/)
+- Related papers:
+  - [EvoBind for binder design](https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1)
+</details>
+
+## :dk: Denmark
+
+### University of Copenhagen
+
+<details>
+<summary>Kresten Lindorff-Larsen</summary>
+
+- Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/sbinlab/kll/)
+- Related papers:
+  - [IDP design](https://www.science.org/doi/full/10.1126/sciadv.adm9926)
+</details>
+
 ## #Asia
 
 ## :singapore: Singapore
@@ -844,7 +886,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related papers:
   - [EvoDesign](https://doi.org/10.1016/j.jmb.2019.02.028)
   - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
-  </details>
+</details>
 
 ## :kr: South Korea
 
