@@ -35,6 +35,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Carnegie Mellon University](#carnegie-mellon-university)
     - [Northwestern University](#northwestern-university)
     - [UNC Chapel Hill](#unc-chapel-hill)
+    - [St. Jude Children’s Research Hospital](#st-jude-childrens-research-hospital)
     - [Dartmouth College](#dartmouth-college)
     - [Columbia University](#columbia-university)
     - [New York University](#new-york-university)
@@ -69,10 +70,15 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:de: Germany](#de-germany)
     - [TUM](#tum)
     - [FU Berlin](#fu-berlin)
+    - [Leipzig University](#leipzig-university)
     - [University of Bayreuth](#university-of-bayreuth)
   - [:fr: France](#fr-france)
+    - [Ecole Polytechnique](#ecole-polytechnique)
+    - [INRAE MIAT](#inrae-miat)
+    - [Toulouse Biotechnology Institute](#toulouse-biotechnology-institute)
   - [:es: Spain](#es-spain)
     - [Centre for Genomic Regulation](#centre-for-genomic-regulation)
+    - [IBMB CSIC](#ibmb-csic)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
   - [:belgium: Belgium](#belgium-belgium)
@@ -83,9 +89,12 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [University of Copenhagen](#university-of-copenhagen)
   - [:israel: Israel](#israel-israel)
     - [Weizmann Institute of Science](#weizmann-institute-of-science)
+    - [Tel Aviv University](#tel-aviv-university)
   - [:saudi\_arabia: Saudi Arabia](#saudi_arabia-saudi-arabia)
+    - [KAUST](#kaust)
   - [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
+    - [Tokyo University](#tokyo-university)
   - [:singapore: Singapore](#singapore-singapore)
     - [National University of Singapore](#national-university-of-singapore)
   - [:kr: South Korea](#kr-south-korea)
@@ -518,6 +527,15 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Personal website: [Huaxiu Yao's Personal Website](https://www.huaxiuyao.io/)
 </details>
 
+### St. Jude Children’s Research Hospital
+
+<details>
+<summary>Elizabeth H. Kellogg</summary>
+
+- Lab website: [link](kellogglab.org)
+</details>
+
+
 ### Dartmouth College
 
 <details>
@@ -828,6 +846,17 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.mi.fu-berlin.de/en/math/groups/ai4s/staff/noe/index.html)
 </details>
 
+### Leipzig University
+
+<details>
+<summary>Clara T. Schoeder</summary>
+
+- Lab website: [Link](https://www.schoederlab.org/)
+- Related paper:
+  - [Combine Rosetta and ESM](https://pubs.acs.org/doi/10.1021/acssynbio.3c00753)
+</details>
+
+
 ### University of Bayreuth
 
 <details>
@@ -837,6 +866,32 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 ## :fr: France
+
+### Ecole Polytechnique
+
+<details>
+<summary>Thomas Simonson</summary>
+
+- Lab website: [Link](https://bioc.polytechnique.fr/biocomputing/)
+- Related paper:
+  - [Proteus](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23418)
+</details>
+
+
+### INRAE MIAT
+<details>
+<summary>Thomas Schiex</summary>
+
+- Lab website: [Link](https://miat.inrae.fr/schiex/research.shtml)
+</details>
+
+### Toulouse Biotechnology Institute
+<details>
+<summary>Sophie Barbe</summary>
+
+- Lab website: [Link](https://miat.inrae.fr/schiex/research.shtml)
+</details>
+
 
 ## :es: Spain
 
@@ -849,6 +904,17 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related paper: 
   - [ZymCTRL](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
 </details>
+
+### IBMB CSIC
+
+<details>
+<summary>Enrique Marcos</summary>
+
+- Lab website: [Link](https://ibmb.csic.es/en/department-of-structural-and-molecular-biology/protein-design-and-modeling/#lab-presentation)
+- Related paper: 
+  - [de novo immunoglobulin design](https://www.nature.com/articles/s41467-023-41717-5)
+</details>
+
 
 ## :austria: Austria
 
@@ -923,13 +989,38 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [Enzyme Repertoires design](https://doi.org/10.1016/j.molcel.2018.08.033)
 </details>
 
+### Tel Aviv University
+
+<details>
+<summary>Jérôme Tubiana</summary>
+
+- Lab website: [Link](https://jertubiana.github.io/research/)
+</details>
+
 ## :saudi_arabia: Saudi Arabia
 
+### KAUST
+
+<details>
+<summary>Xin Gao</summary>
+
+- Lab website: [Link](https://cemse.kaust.edu.sa/sfb)
+</details>
 
 
 ## #Asia
 
 ## :jp: Japan
+
+### Tokyo University
+
+<details>
+<summary>Kotaro Tsuboyama</summary>
+
+- Lab website: [Link](https://sites.google.com/view/tsubo-lab/home)
+- Related papers:
+  - [Mega-scale mutation scanning](https://www.nature.com/articles/s41586-023-06328-6)
+</details>
 
 
 
