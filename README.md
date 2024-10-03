@@ -507,6 +507,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](http://www.rocklinlab.org/)
 </details>
 
+<details>
+<summary>Neha P. Kamat</summary>
+
+- Lab website: [Link](https://www.nehakamat.com/)
+- Related Papers:
+  - [Protein-lipid interaction engineerning](https://www.nature.com/articles/s41467-024-49678-z)
+</details>
+
 ### UNC Chapel Hill
 
 <details>
