@@ -14,9 +14,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 ## Table of Contents
 
-- [Protein Design Labs](#protein-design-labs)
-  - [Table of Contents](#table-of-contents)
-  - [#North America](#north-america)
+- [#North America](#north-america)
   - [:us: United States](#us-united-states)
     - [MIT](#mit)
     - [Harvard University](#harvard-university)
@@ -53,7 +51,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
-  - [#EMEA](#emea)
+- [#EMEA](#emea)
   - [:uk: United Kingdom](#uk-united-kingdom)
     - [University of Cambridge](#university-of-cambridge)
     - [University of Oxford](#university-of-oxford)
@@ -92,7 +90,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Tel Aviv University](#tel-aviv-university)
   - [:saudi\_arabia: Saudi Arabia](#saudi_arabia-saudi-arabia)
     - [KAUST](#kaust)
-  - [#Asia](#asia)
+- [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
     - [Tokyo University](#tokyo-university)
   - [:singapore: Singapore](#singapore-singapore)
@@ -547,7 +545,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 ### Dartmouth College
 
 <details>
-<summary>Gevorg Grigoryan</summary>
+<summary>Gevorg Grigoryan (Left for Company)</summary>
 
 - Personal website: [Gevorg Grigoryan](https://faculty-directory.dartmouth.edu/gevorg-grigoryan)
 </details>
@@ -978,6 +976,15 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/sbinlab/kll/)
 - Related papers:
   - [Glycoside hydrolase carving-out](https://pubs.acs.org/doi/full/10.1021/acssynbio.3c00674)
+</details>
+
+
+### Aarhus University
+
+<details>
+<summary>Michael Westberg</summary>
+
+- Lab website: [Link](https://westberglab.com/)
 </details>
 
 ## :israel: Israel
