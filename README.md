@@ -49,6 +49,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
     - [University of Florida](#university-of-florida)
     - [Georgia Institute of Technology](#georgia-institute-of-technology)
     - [University of Delaware](#university-of-delaware)
+    - [Wake Forest University](#wake-forest-university)
   - [Canada](#canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
@@ -65,6 +66,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
     - [UCL](#ucl)
     - [University of Edinburgh](#university-of-edinburgh)
     - [University of Bristol](#university-of-bristol)
+    - [Cardiff University](#cardiff-university)
   - [Ireland](#ireland)
     - [University College Cork](#university-college-cork)
   - [Switzerland](#switzerland)
@@ -74,13 +76,16 @@ We welcome suggestions for additions – please feel free to open new issues, an
     - [TUM](#tum)
     - [University of Bayreuth](#university-of-bayreuth)
   - [Spain](#spain)
-  - [Hongkong](#hongkong)
+  - [Austria](#austria)
+    - [TU Graz](#tu-graz)
+  - [Hong Kong](#hong-kong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
     - [HKUST](#hkust)
   - [China Mainland](#china-mainland)
     - [Peking University 北京大学](#peking-university-北京大学)
     - [Tsinghua University 清华大学](#tsinghua-university-清华大学)
     - [CAS ICT 中国科学院计算技术研究所](#cas-ict-中国科学院计算技术研究所)
+    - [CAS IBP 中国科学院生物物理研究所](#cas-ibp-中国科学院生物物理研究所)
     - [Renmin University of China 中国人民大学](#renmin-university-of-china-中国人民大学)
     - [Shanghai Jiao Tong University 上海交通大学](#shanghai-jiao-tong-university-上海交通大学)
     - [Fudan University 复旦大学](#fudan-university-复旦大学)
@@ -630,6 +635,14 @@ We welcome suggestions for additions – please feel free to open new issues, an
 - Lab website: [Link](https://www.gleghornlab.com/)
 </details>
 
+### Wake Forest University
+
+<details>
+<summary>Katherine I. Albanese</summary>
+
+- Lab website: [Link](https://www.albaneselab.com/)
+</details>
+
 ## Canada
 
 ### Mila - Quebec AI Institute
@@ -783,6 +796,21 @@ We welcome suggestions for additions – please feel free to open new issues, an
 - Lab website: [Link](https://woolfsonlab.wordpress.com/)
 </details>
 
+<details>
+<summary>Ross Anderson</summary>
+
+- Lab website: [Link](https://theandersonlab.com/)
+</details>
+
+### Cardiff University
+
+<details>
+<summary>Fabio Parmeggiani</summary>
+
+- Lab website: [Link](https://profiles.cardiff.ac.uk/staff/parmeggianif)
+- Related papers:
+  - [Repeat protein design](https://www.nature.com/articles/nature16162)
+</details>
 
 ## Ireland
 
@@ -846,10 +874,23 @@ We welcome suggestions for additions – please feel free to open new issues, an
 
 - Lab website: [Artificial Intelligence for Protein Design - Noelia Ferruz lab](https://www.aiproteindesign.com/)
 - Related paper: 
-  - [ZymCTRL: Conditional language models enable the efficient design of proficient enzymes](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
+  - [ZymCTRL](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
 </details>
 
-## Hongkong
+## Austria
+
+### TU Graz
+
+<details>
+<summary>Gustav Oberdorfer</summary>
+
+- Lab website: [Link](https://www.tugraz.at/institute/ibc/research/research-groups/protein-design)
+- Related Paper:
+  - [Helical Bundle design](https://www.science.org/doi/abs/10.1126/science.1257481)
+  - [ESM-Scan](https://www.biorxiv.org/content/10.1101/2023.12.12.571273v2)
+</details>
+
+## Hong Kong
 
 ### Chinese University of Hong Kong
 
@@ -857,6 +898,8 @@ We welcome suggestions for additions – please feel free to open new issues, an
 <summary>Yu Li</summary>
 
 - Lab website: [Link](https://liyu95.com/)
+- Related Paper:
+  - [Dense Homolog Retriever](https://www.nature.com/articles/s41587-024-02353-6)
 </details>
 
 ### HKUST
@@ -865,6 +908,8 @@ We welcome suggestions for additions – please feel free to open new issues, an
 <summary>Danqing Zhu</summary>
 
 - Lab website: [Link](https://www.danqing-zhu.com/)
+- Related Paper
+  - [AAV library design](https://www.science.org/doi/full/10.1126/sciadv.adj3786)
 </details>
 
 
@@ -948,6 +993,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
 </details>
 
 ### CAS ICT 中国科学院计算技术研究所
+
 <details>
 <summary>Dongbo Bu 卜东波</summary>
 
@@ -964,13 +1010,30 @@ We welcome suggestions for additions – please feel free to open new issues, an
   - [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
 </details>
 
+### CAS IBP 中国科学院生物物理研究所
+
+<details>
+<summary>Xianen Zhang 张先恩</summary>
+
+- Lab website: [Link](https://ibp.cas.cn/kydw_157813/xrktzz/xsszmZ/201912/t20191202_5447225.html)
+- Related Papers: 
+  - [ProT-Diff for AMP generation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202406305)
+</details>
+
+<details>
+<summary>Dianbing Wang 王殿冰</summary>
+
+- Related Papers: 
+  - [ProT-Diff for AMP generation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202406305)
+</details>
+
 ### Renmin University of China 中国人民大学
 <details>
 <summary>Wenbing Huang 黄文炳</summary>
 
 - Lab website: [Link](https://info.ruc.edu.cn/academic_professor.php?teacher_id=208)
-- Related Papers: [
-  - ICML 2023] Antibody design: https://arxiv.org/abs/2302.00203
+- Related Papers:
+  - [Antibody design](https://arxiv.org/abs/2302.00203)
 </details>
 
 ### Shanghai Jiao Tong University 上海交通大学
@@ -979,7 +1042,8 @@ We welcome suggestions for additions – please feel free to open new issues, an
 
 - Lab website: [Link](http://www.hongliang-lab.com/)
 - Related Papers: 
-  - [Cell Discovery 2024] CPDiffusion: https://www.nature.com/articles/s41421-024-00728-2, [arXiv] CPDiffusion-SS: https://arxiv.org/abs/2407.07443
+  - [CPDiffusion for Argonaute design](https://www.nature.com/articles/s41421-024-00728-2)
+  - [CPDiffusion-SS for secondary structure based design](https://arxiv.org/abs/2407.07443)
 </details>
 
 <details>
@@ -987,7 +1051,8 @@ We welcome suggestions for additions – please feel free to open new issues, an
 
 - Lab website: [Link](https://www.bio.sjtu.edu.cn/teacher/86)
 - Related Papers: 
-  - [bib 2024] GPD: Graphormer supervised de novo protein design method and function validation
+  - [GPD](https://academic.oup.com/bib/article/25/3/bbae135/7638270)
+  - [Sequence design benchmark](https://doi.org/10.1093/bioinformatics/btae037)
 </details>
 
 <details>
