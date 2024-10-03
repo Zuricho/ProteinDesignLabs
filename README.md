@@ -6,9 +6,7 @@
 
 This list serves as a public reference for labs engaged in computational protein design research. While we've made every effort to be comprehensive, our knowledge may be limited (mostly limited to labs in the US and China). 
 
-We apologize if we've missed your lab or labs you're familiar with.
-
-We welcome suggestions for additions – please feel free to open new issues, and we'll update the list accordingly.
+We apologize if we've missed your lab or labs you're familiar with. Suggestions for additions are highly welcomed – please feel free to open new issues.
 
 > 📝 Note: The list was based on @[Zuricho](https://github.com/Zuricho)'s post on [Zhihu](https://zhuanlan.zhihu.com/p/710644612) in Chinese. The current version has been expanded and formatted with the assistance of @[Leo-T-Zang](https://github.com/Leo-T-Zang).
 
@@ -18,7 +16,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
 
 - [Protein Design Labs](#protein-design-labs)
   - [Table of Contents](#table-of-contents)
-  - [United States](#united-states)
+  - [:us: United States](#us-united-states)
     - [MIT](#mit)
     - [Harvard University](#harvard-university)
     - [Stanford University](#stanford-university)
@@ -106,7 +104,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
 
 
 
-## United States
+## :us: United States
 
 ### MIT
 
