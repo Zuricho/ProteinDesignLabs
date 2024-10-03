@@ -48,38 +48,38 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Georgia Institute of Technology](#georgia-institute-of-technology)
     - [University of Delaware](#university-of-delaware)
     - [Wake Forest University](#wake-forest-university)
-  - [Canada](#canada)
+  - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
-  - [Singapore](#singapore)
+  - [:singapore: Singapore](#singapore-singapore)
     - [National University of Singapore](#national-university-of-singapore)
-  - [Korea](#korea)
+  - [:kr: South Korea](#kr-south-korea)
     - [Seoul National University](#seoul-national-university)
     - [KAIST](#kaist)
     - [POSTECH](#postech)
     - [IBS](#ibs)
-  - [United Kingdom](#united-kingdom)
+  - [:uk: United Kingdom](#uk-united-kingdom)
     - [University of Cambridge](#university-of-cambridge)
     - [University of Oxford](#university-of-oxford)
     - [UCL](#ucl)
     - [University of Edinburgh](#university-of-edinburgh)
     - [University of Bristol](#university-of-bristol)
     - [Cardiff University](#cardiff-university)
-  - [Ireland](#ireland)
+  - [:ireland: Ireland](#ireland-ireland)
     - [University College Cork](#university-college-cork)
-  - [Switzerland](#switzerland)
+  - [:switzerland: Switzerland](#switzerland-switzerland)
     - [ETH Zurich](#eth-zurich)
     - [EPFL](#epfl)
-  - [Germany](#germany)
+  - [:de: Germany](#de-germany)
     - [TUM](#tum)
     - [University of Bayreuth](#university-of-bayreuth)
-  - [Spain](#spain)
-  - [Austria](#austria)
+  - [:es: Spain](#es-spain)
+  - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
-  - [Hong Kong](#hong-kong)
+  - [:hong\_kong: Hong Kong](#hong_kong-hong-kong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
     - [HKUST](#hkust)
-  - [China Mainland](#china-mainland)
+  - [:cn: China Mainland](#cn-china-mainland)
     - [Peking University 北京大学](#peking-university-北京大学)
     - [Tsinghua University 清华大学](#tsinghua-university-清华大学)
     - [CAS ICT 中国科学院计算技术研究所](#cas-ict-中国科学院计算技术研究所)
@@ -641,7 +641,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.albaneselab.com/)
 </details>
 
-## Canada
+## :canada: Canada
 
 ### Mila - Quebec AI Institute
 
@@ -666,7 +666,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.kimlab.org/)
 </details>
 
-## Singapore
+## :singapore: Singapore
 
 ### National University of Singapore
 
@@ -680,7 +680,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
   </details>
 
-## Korea
+## :kr: South Korea
 
 ### Seoul National University
 
@@ -731,7 +731,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## United Kingdom
+## :uk: United Kingdom
 
 ### University of Cambridge
 
@@ -810,7 +810,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [Repeat protein design](https://www.nature.com/articles/nature16162)
 </details>
 
-## Ireland
+## :ireland: Ireland
 
 ### University College Cork
 
@@ -821,7 +821,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://crr.ucc.ie/)
 </details>
 
-## Switzerland
+## :switzerland: Switzerland
 
 ### ETH Zurich
 
@@ -846,7 +846,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Bitbol Lab](https://www.epfl.ch/labs/bitbol-lab/)
 </details>
 
-## Germany
+## :de: Germany
 
 ### TUM
 
@@ -865,7 +865,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## Spain
+## :es: Spain
 
 <details>
 <summary>Noelia Ferruz</summary>
@@ -875,7 +875,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [ZymCTRL](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
 </details>
 
-## Austria
+## :austria: Austria
 
 ### TU Graz
 
@@ -888,7 +888,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [ESM-Scan](https://www.biorxiv.org/content/10.1101/2023.12.12.571273v2)
 </details>
 
-## Hong Kong
+## :hong_kong: Hong Kong
 
 ### Chinese University of Hong Kong
 
@@ -911,7 +911,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## China Mainland
+## :cn: China Mainland
 
 ### Peking University 北京大学
 
