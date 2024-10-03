@@ -52,10 +52,11 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
-  - [#Europe](#europe)
+  - [#EMEA](#emea)
   - [:uk: United Kingdom](#uk-united-kingdom)
     - [University of Cambridge](#university-of-cambridge)
     - [University of Oxford](#university-of-oxford)
+    - [Imperial College London](#imperial-college-london)
     - [UCL](#ucl)
     - [University of Edinburgh](#university-of-edinburgh)
     - [University of Bristol](#university-of-bristol)
@@ -74,11 +75,17 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Centre for Genomic Regulation](#centre-for-genomic-regulation)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
+  - [:belgium: Belgium](#belgium-belgium)
+    - [Vrije Universiteit Brussel](#vrije-universiteit-brussel)
   - [:sweden: Sweden](#sweden-sweden)
     - [Stockholm University](#stockholm-university)
-  - [:dk: Denmark](#dk-denmark)
+  - [:denmark: Denmark](#denmark-denmark)
     - [University of Copenhagen](#university-of-copenhagen)
+  - [:israel: Israel](#israel-israel)
+    - [Weizmann Institute of Science](#weizmann-institute-of-science)
+  - [:saudi\_arabia: Saudi Arabia](#saudi_arabia-saudi-arabia)
   - [#Asia](#asia)
+  - [:jp: Japan](#jp-japan)
   - [:singapore: Singapore](#singapore-singapore)
     - [National University of Singapore](#national-university-of-singapore)
   - [:kr: South Korea](#kr-south-korea)
@@ -678,7 +685,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## #Europe
+## #EMEA
 
 ## :uk: United Kingdom
 
@@ -708,6 +715,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Yarin Gal</summary>
 
 - Lab website: [Yarin Gal - Home Page | Oxford Machine Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/)
+</details>
+
+### Imperial College London
+
+<details>
+<summary>Guang Yang</summary>
+
+- Lab website: [link](https://profiles.imperial.ac.uk/g.yang)
 </details>
 
 
@@ -848,6 +863,18 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [ESM-Scan](https://www.biorxiv.org/content/10.1101/2023.12.12.571273v2)
 </details>
 
+## :belgium: Belgium
+
+### Vrije Universiteit Brussel
+
+<details>
+<summary>Anastassia A. Vorobieva</summary>
+
+- Lab website: [Link](https://vorobievalab.sites.vib.be/en)
+- Related papers:
+  - [Nanopore design](https://www.science.org/doi/10.1126/science.adn3796)
+</details>
+
 ## :sweden: Sweden
 
 ### Stockholm University
@@ -860,19 +887,51 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [EvoBind for binder design](https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1)
 </details>
 
-## :dk: Denmark
+## :denmark: Denmark
 
 ### University of Copenhagen
 
 <details>
 <summary>Kresten Lindorff-Larsen</summary>
 
-- Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/sbinlab/kll/)
+- Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/pbg/mw/)
 - Related papers:
   - [IDP design](https://www.science.org/doi/full/10.1126/sciadv.adm9926)
 </details>
 
+
+<details>
+<summary>Martin Willemoës</summary>
+
+- Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/sbinlab/kll/)
+- Related papers:
+  - [Glycoside hydrolase carving-out](https://pubs.acs.org/doi/full/10.1021/acssynbio.3c00674)
+</details>
+
+## :israel: Israel
+
+### Weizmann Institute of Science
+
+<details>
+<summary>Sarel J Fleishman</summary>
+
+- Lab website: [Link](https://www.fleishmanlab.org/)
+- Related papers:
+  - [CADENZ](https://www.science.org/doi/10.1126/science.ade9434)
+  - [Antibody humanness optimize](https://www.nature.com/articles/s41551-023-01079-1)
+  - [Peroxidases Design](https://pubs.acs.org/doi/10.1021/jacs.1c12433)
+  - [Enzyme Repertoires design](https://doi.org/10.1016/j.molcel.2018.08.033)
+</details>
+
+## :saudi_arabia: Saudi Arabia
+
+
+
 ## #Asia
+
+## :jp: Japan
+
+
 
 ## :singapore: Singapore
 
