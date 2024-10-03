@@ -833,10 +833,11 @@ We welcome suggestions for additions – please feel free to open new issues, an
 ### University of Bayreuth
 
 <details>
-<summary>Birte Höcker/summary>
+<summary>Birte Höcker</summary>
 
 - Lab website: [Link](https://www.proteindesign.uni-bayreuth.de/en/index.html)
 </details>
+
 
 ## Spain
 
