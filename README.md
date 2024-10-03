@@ -72,6 +72,7 @@ We welcome suggestions for additions – please feel free to open new issues, an
     - [EPFL](#epfl)
   - [Germany](#germany)
     - [TUM](#tum)
+    - [University of Bayreuth](#university-of-bayreuth)
   - [Spain](#spain)
   - [Hongkong](#hongkong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
@@ -829,6 +830,13 @@ We welcome suggestions for additions – please feel free to open new issues, an
 - Lab website: [Rost Lab](https://www.rostlab.org/)
 </details>
 
+### University of Bayreuth
+
+<details>
+<summary>Birte Höcker/summary>
+
+- Lab website: [Link](https://www.proteindesign.uni-bayreuth.de/en/index.html)
+</details>
 
 ## Spain
 
