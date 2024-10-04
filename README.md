@@ -14,7 +14,9 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 ## Table of Contents
 
-- [#North America](#north-america)
+- [Protein Design Labs](#protein-design-labs)
+  - [Table of Contents](#table-of-contents)
+  - [#North America](#north-america)
   - [:us: United States](#us-united-states)
     - [MIT](#mit)
     - [Harvard University](#harvard-university)
@@ -51,7 +53,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
-- [#EMEA](#emea)
+  - [#EMEA](#emea)
   - [:uk: United Kingdom](#uk-united-kingdom)
     - [University of Cambridge](#university-of-cambridge)
     - [University of Oxford](#university-of-oxford)
@@ -86,14 +88,16 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Stockholm University](#stockholm-university)
   - [:denmark: Denmark](#denmark-denmark)
     - [University of Copenhagen](#university-of-copenhagen)
+    - [Aarhus University](#aarhus-university)
   - [:israel: Israel](#israel-israel)
     - [Weizmann Institute of Science](#weizmann-institute-of-science)
     - [Tel Aviv University](#tel-aviv-university)
-  - [:saudi\_arabia: Saudi Arabia](#saudi_arabia-saudi-arabia)
+  - [🇸🇦 Saudi Arabia](#-saudi-arabia)
     - [KAUST](#kaust)
     - [Mohamed bin Zayed University of AI](#mohamed-bin-zayed-university-of-ai)
-  - [:🇳🇱: Netherlands](#nl-netherlands)
-- [#Asia](#asia)
+  - [🇳🇱 Netherlands](#-netherlands)
+    - [Eindhoven University of Technology](#eindhoven-university-of-technology)
+  - [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
     - [Tokyo University](#tokyo-university)
   - [:singapore: Singapore](#singapore-singapore)
@@ -1021,7 +1025,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://jertubiana.github.io/research/)
 </details>
 
-## :saudi_arabia: Saudi Arabia
+## 🇸🇦 Saudi Arabia
 
 ### KAUST
 
@@ -1041,7 +1045,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## :🇳🇱: Netherlands
+## 🇳🇱 Netherlands
 
 ### Eindhoven University of Technology
 
