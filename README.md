@@ -77,6 +77,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:es: Spain](#es-spain)
     - [Centre for Genomic Regulation](#centre-for-genomic-regulation)
     - [IBMB CSIC](#ibmb-csic)
+    - [IMDEA Nanoscience research institute](#imdea-nanoscience-research-institute)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
   - [:belgium: Belgium](#belgium-belgium)
@@ -919,6 +920,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [de novo immunoglobulin design](https://www.nature.com/articles/s41467-023-41717-5)
 </details>
 
+
+### IMDEA Nanoscience research institute
+
+<details>
+<summary>Sara H Mejias</summary>
+
+- Lab website: [Link](https://sites.google.com/view/sarahmejias/team-members)
+</details>
 
 ## :austria: Austria
 
