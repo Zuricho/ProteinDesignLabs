@@ -92,7 +92,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:saudi\_arabia: Saudi Arabia](#saudi_arabia-saudi-arabia)
     - [KAUST](#kaust)
     - [Mohamed bin Zayed University of AI](#mohamed-bin-zayed-university-of-ai)
-  - [:nl: Netherlands](#nl-netherlands)
+  - [:🇳🇱: Netherlands](#nl-netherlands)
 - [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
     - [Tokyo University](#tokyo-university)
@@ -1041,7 +1041,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## :nl: Netherlands
+## :🇳🇱: Netherlands
 
 ### Eindhoven University of Technology
 
