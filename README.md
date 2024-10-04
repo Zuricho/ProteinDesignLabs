@@ -91,6 +91,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Tel Aviv University](#tel-aviv-university)
   - [:saudi\_arabia: Saudi Arabia](#saudi_arabia-saudi-arabia)
     - [KAUST](#kaust)
+    - [Mohamed bin Zayed University of AI](#mohamed-bin-zayed-university-of-ai)
+  - [:nl: Netherlands](#nl-netherlands)
 - [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
     - [Tokyo University](#tokyo-university)
@@ -1029,6 +1031,25 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://cemse.kaust.edu.sa/sfb)
 </details>
 
+
+### Mohamed bin Zayed University of AI
+
+<details>
+<summary>Eric Xing</summary>
+
+- Lab website: [Link](https://mbzuai.ac.ae/study/faculty/professor-eric-xing/)
+</details>
+
+
+## :nl: Netherlands
+
+### Eindhoven University of Technology
+
+<details>
+<summary>Francesca Grisoni</summary>
+
+- Lab website: [Link](https://molecularmachinelearning.com/)
+</details>
 
 ## #Asia
 
