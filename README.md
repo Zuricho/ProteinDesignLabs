@@ -60,6 +60,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [University of Edinburgh](#university-of-edinburgh)
     - [University of Bristol](#university-of-bristol)
     - [Cardiff University](#cardiff-university)
+    - [University of Leeds](#university-of-leeds)
   - [:ireland: Ireland](#ireland-ireland)
     - [University College Cork](#university-college-cork)
   - [:switzerland: Switzerland](#switzerland-switzerland)
@@ -78,6 +79,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Centre for Genomic Regulation](#centre-for-genomic-regulation)
     - [IBMB CSIC](#ibmb-csic)
     - [IMDEA Nanoscience research institute](#imdea-nanoscience-research-institute)
+    - [Barcelona Supercomputing Center](#barcelona-supercomputing-center)
+    - [Spanish National Research Council](#spanish-national-research-council)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
   - [:belgium: Belgium](#belgium-belgium)
@@ -536,6 +539,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Personal website: [Huaxiu Yao's Personal Website](https://www.huaxiuyao.io/)
 </details>
 
+
+<details>
+<summary>Huong Kratochvil</summary>
+
+- Lab website: [Link](https://www.kratochvillab.com/)
+</details>
+
+
 ### St. Jude Children’s Research Hospital
 
 <details>
@@ -801,6 +812,46 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [Repeat protein design](https://www.nature.com/articles/nature16162)
 </details>
 
+
+### University of Leeds
+
+<details>
+<summary>Darren Tomlinson</summary>
+
+- Lab website: [Link](https://astbury.leeds.ac.uk/people/dr-darren-tomlinson/)
+</details>
+
+<details>
+<summary>Takashi Ochi</summary>
+
+- Lab website: [Link](https://tochi.myportfolio.com/)
+</details>
+
+<details>
+<summary>Neil Ranson</summary>
+
+- Lab website: [Link](https://naranson.myportfolio.com/)
+</details>
+
+<details>
+<summary>Richard Bayliss</summary>
+
+- Lab website: [Link](https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/23/prof-richard-bayliss)
+</details>
+
+<details>
+<summary>David Brockwell</summary>
+
+- Lab website: [Link](https://astbury.leeds.ac.uk/people/dr-david-brockwell/)
+</details>
+
+
+<details>
+<summary>Sheena Radford</summary>
+
+- Lab website: [Link](https://astbury.leeds.ac.uk/people/professor-sheena-radford/)
+</details>
+
 ## :ireland: Ireland
 
 ### University College Cork
@@ -929,6 +980,25 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Sara H Mejias</summary>
 
 - Lab website: [Link](https://sites.google.com/view/sarahmejias/team-members)
+</details>
+
+
+### Barcelona Supercomputing Center
+
+
+<details>
+<summary>Victor Guallar Tasies</summary>
+
+- Lab website: [Link](https://www.bsc.es/guallar-tasies-victor)
+</details>
+
+### Spanish National Research Council
+
+
+<details>
+<summary>Manuel Ferrer Martínez</summary>
+
+- Lab website: [Link](https://sysbio.csic.es/prof-manuel-ferrer/)
 </details>
 
 ## :austria: Austria
