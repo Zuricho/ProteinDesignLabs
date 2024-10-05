@@ -14,9 +14,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 ## Table of Contents
 
-- [Protein Design Labs](#protein-design-labs)
-  - [Table of Contents](#table-of-contents)
-  - [#North America](#north-america)
+- [#North America](#north-america)
   - [:us: United States](#us-united-states)
     - [MIT](#mit)
     - [Harvard University](#harvard-university)
@@ -53,7 +51,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
-  - [#EMEA](#emea)
+- [#EMEA](#emea)
   - [:uk: United Kingdom](#uk-united-kingdom)
     - [University of Cambridge](#university-of-cambridge)
     - [University of Oxford](#university-of-oxford)
@@ -100,7 +98,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Mohamed bin Zayed University of AI](#mohamed-bin-zayed-university-of-ai)
   - [🇳🇱 Netherlands](#-netherlands)
     - [Eindhoven University of Technology](#eindhoven-university-of-technology)
-  - [#Asia](#asia)
+- [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
     - [Tokyo University](#tokyo-university)
   - [:singapore: Singapore](#singapore-singapore)
