@@ -486,6 +486,13 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://singhlab.net/)
 </details>
 
+
+<details>
+<summary>David C. Richardson & Jane Shelby Richardson</summary>
+
+- Lab website: [Link](https://www.biochem.duke.edu/people/richardson-lab)
+</details>
+
 ### John Hopkins University
 
 <details>
@@ -697,6 +704,45 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Katherine I. Albanese</summary>
 
 - Lab website: [Link](https://www.albaneselab.com/)
+</details>
+
+
+### Vanderbilt University
+
+<details>
+<summary>Zhongyue Yang</summary>
+
+- Lab website: [Link](https://lab.vanderbilt.edu/zyang-lab/)
+</details>
+
+<details>
+<summary>Jens Meiler</summary>
+
+- Lab website: [Link](https://meilerlab.org/)
+</details>
+
+<details>
+<summary>Stephanie Wankowicz</summary>
+
+- Lab website: [Link](https://wankowiczlab.com/)
+</details>
+
+<details>
+<summary>Hassane Mchaourab</summary>
+
+- Lab website: [Link](https://lab.vanderbilt.edu/mchaourab-lab/person/hassane-s-mchaourab-ph-d/)
+</details>
+
+<details>
+<summary>Ben Brown</summary>
+
+- Lab website: [Link](https://www.bpbrownlab.org/)
+</details>
+
+<details>
+<summary>AI for Protein Dynamics Center</summary>
+
+- Lab website: [Link](https://www.ai-proteindynamics.org/)
 </details>
 
 ## :canada: Canada
