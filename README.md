@@ -48,6 +48,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Georgia Institute of Technology](#georgia-institute-of-technology)
     - [University of Delaware](#university-of-delaware)
     - [Wake Forest University](#wake-forest-university)
+    - [Vanderbilt University](#vanderbilt-university)
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
