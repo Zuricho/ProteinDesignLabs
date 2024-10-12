@@ -82,6 +82,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [IMDEA Nanoscience research institute](#imdea-nanoscience-research-institute)
     - [Barcelona Supercomputing Center](#barcelona-supercomputing-center)
     - [Spanish National Research Council](#spanish-national-research-council)
+    - [Universitat Autònoma de Barcelona](#universitat-autònoma-de-barcelona)
   - [:austria: Austria](#austria-austria)
     - [TU Graz](#tu-graz)
   - [:belgium: Belgium](#belgium-belgium)
@@ -1048,6 +1049,15 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Manuel Ferrer Martínez</summary>
 
 - Lab website: [Link](https://sysbio.csic.es/prof-manuel-ferrer/)
+</details>
+
+
+### Universitat Autònoma de Barcelona
+
+<details>
+<summary>Salvador Ventura Zamora</summary>
+
+- Lab website: [Link](https://ibb.uab.cat/wp-content/themes/viral/modules/ibb_membres/view_grup.php?CodiGrup=36)
 </details>
 
 ## :austria: Austria
