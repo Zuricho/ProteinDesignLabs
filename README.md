@@ -100,6 +100,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [Mohamed bin Zayed University of AI](#mohamed-bin-zayed-university-of-ai)
   - [🇳🇱 Netherlands](#-netherlands)
     - [Eindhoven University of Technology](#eindhoven-university-of-technology)
+  - [Czech Republic](#czech-republic)
+    - [Masaryk University](#masaryk-university)
 - [#Asia](#asia)
   - [:jp: Japan](#jp-japan)
     - [Tokyo University](#tokyo-university)
@@ -1179,6 +1181,18 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 - Lab website: [Link](https://molecularmachinelearning.com/)
 </details>
+
+
+## Czech Republic
+
+### Masaryk University
+
+<details>
+<summary>Jiri Damborsky</summary>
+
+- Lab website: [Link](https://loschmidt.chemi.muni.cz/peg/)
+</details>
+
 
 ## #Asia
 
