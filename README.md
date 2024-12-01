@@ -1296,6 +1296,15 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [AAV library design](https://www.science.org/doi/full/10.1126/sciadv.adj3786)
 </details>
 
+## :taiwan: Taiwan
+
+<details>
+<summary>Kuen-Phon Wu</summary>
+
+-Lab Website: [Link](https://kpwulab.com)
+- Related Papers
+  - [ACS Synthetic Biology 2023] Rsp5 E3 ligase Design: https://pubs.acs.org/doi/full/10.1021/acssynbio.3c00042
+</details>
 
 ## :cn: China Mainland
 
@@ -1579,6 +1588,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 - Lab website: [Link](http://zhanglab-bioinf.com/people/guijunz/)
 </details>
+- Related Papers:
+  - [Briefings in Bioinformatics 2024] SPDesign: https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbae146
 
 ### Sun Yat-sen University 中山大学
 <details>
@@ -1618,7 +1629,9 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 - Lab website: [Link](https://biocomp.ustc.edu.cn/)
 - Related Papers: 
-  - [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6, [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
+  - [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6
+  - [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
+  - [Nature Methods 2024] SCUBA-D: https://www.nature.com/articles/s41592-024-02465-6
 </details>
 
 <details>
