@@ -163,7 +163,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.regina.csail.mit.edu/)
 - Related paper:
   - CLIPZyme: [arXiv:2402.06748](http://arxiv.org/abs/2402.06748)
-  </details>
+</details>
 
 
 <details>
@@ -405,7 +405,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Ranganathan Lab](http://ranganathanlab.org/)
 - Related paper: 
   - [Evolution-based design](https://www.science.org/doi/10.1126/science.aba3304)
-  </details>
+</details>
 
 <details>
 <summary>Andrew Ferguson</summary>
@@ -414,7 +414,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Personal website: [Andrew Ferguson](https://pme.uchicago.edu/faculty/andrew-ferguson)
 - Related paper: 
   - [SH3 design](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00204-7#%20)
-  </details>
+</details>
 
 ### UIUC
 
@@ -530,7 +530,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.nehakamat.com/)
 - Related Papers:
   - [Protein-lipid interaction engineerning](https://www.nature.com/articles/s41467-024-49678-z)
-  </details>
+</details>
 
 ### UNC Chapel Hill
 
@@ -611,14 +611,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://kyunghyuncho.me/)
 - Related paper: 
   - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
-  </details>
+</details>
 
 <details>
 <summary>Andrew Gordon Wilson</summary>
 
 - Lab website: [Link](https://cims.nyu.edu/~andrewgw/)
   - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
-  </details>
+</details>
 
 ### Northeastern University
 
@@ -862,7 +862,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://profiles.cardiff.ac.uk/staff/parmeggianif)
 - Related papers:
   - [Repeat protein design](https://www.nature.com/articles/nature16162)
-  </details>
+</details>
 
 
 ### University of Leeds
@@ -966,7 +966,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.schoederlab.org/)
 - Related paper:
   - [Combine Rosetta and ESM](https://pubs.acs.org/doi/10.1021/acssynbio.3c00753)
-  </details>
+</details>
 
 
 ### University of Bayreuth
@@ -987,7 +987,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://bioc.polytechnique.fr/biocomputing/)
 - Related paper:
   - [Proteus](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23418)
-  </details>
+</details>
 
 
 ### INRAE MIAT
@@ -1013,7 +1013,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Artificial Intelligence for Protein Design - Noelia Ferruz lab](https://www.aiproteindesign.com/)
 - Related paper: 
   - [ZymCTRL](https://www.biorxiv.org/content/10.1101/2024.05.03.592223v2)
-  </details>
+</details>
 
 ### IBMB CSIC
 
@@ -1023,7 +1023,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://ibmb.csic.es/en/department-of-structural-and-molecular-biology/protein-design-and-modeling/#lab-presentation)
 - Related paper: 
   - [de novo immunoglobulin design](https://www.nature.com/articles/s41467-023-41717-5)
-  </details>
+</details>
 
 
 ### IMDEA Nanoscience research institute
@@ -1073,7 +1073,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related Paper:
   - [Helical Bundle design](https://www.science.org/doi/abs/10.1126/science.1257481)
   - [ESM-Scan](https://www.biorxiv.org/content/10.1101/2023.12.12.571273v2)
-  </details>
+</details>
 
 ## :belgium: Belgium
 
@@ -1085,7 +1085,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://vorobievalab.sites.vib.be/en)
 - Related papers:
   - [Nanopore design](https://www.science.org/doi/10.1126/science.adn3796)
-  </details>
+</details>
 
 ## :sweden: Sweden
 
@@ -1097,7 +1097,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://patrickbryantlab.github.io/)
 - Related papers:
   - [EvoBind for binder design](https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1)
-  </details>
+</details>
 
 ## :denmark: Denmark
 
@@ -1109,7 +1109,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/pbg/mw/)
 - Related papers:
   - [IDP design](https://www.science.org/doi/full/10.1126/sciadv.adm9926)
-  </details>
+</details>
 
 
 <details>
@@ -1118,7 +1118,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www1.bio.ku.dk/english/research/bms/sbinlab/kll/)
 - Related papers:
   - [Glycoside hydrolase carving-out](https://pubs.acs.org/doi/full/10.1021/acssynbio.3c00674)
-  </details>
+</details>
 
 
 ### Aarhus University
@@ -1142,7 +1142,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [Antibody humanness optimize](https://www.nature.com/articles/s41551-023-01079-1)
   - [Peroxidases Design](https://pubs.acs.org/doi/10.1021/jacs.1c12433)
   - [Enzyme Repertoires design](https://doi.org/10.1016/j.molcel.2018.08.033)
-  </details>
+</details>
 
 ### Tel Aviv University
 
@@ -1206,7 +1206,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://sites.google.com/view/tsubo-lab/home)
 - Related papers:
   - [Mega-scale mutation scanning](https://www.nature.com/articles/s41586-023-06328-6)
-  </details>
+</details>
 
 
 
@@ -1222,7 +1222,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related papers:
   - [EvoDesign](https://doi.org/10.1016/j.jmb.2019.02.028)
   - [EvoEF2](https://academic.oup.com/bioinformatics/article/36/4/1135/5582267)
-  </details>
+</details>
 
 ## :kr: South Korea
 
@@ -1284,7 +1284,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://liyu95.com/)
 - Related Paper:
   - [Dense Homolog Retriever](https://www.nature.com/articles/s41587-024-02353-6)
-  </details>
+</details>
 
 ### HKUST
 
@@ -1294,7 +1294,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.danqing-zhu.com/)
 - Related Paper
   - [AAV library design](https://www.science.org/doi/full/10.1126/sciadv.adj3786)
-  </details>
+</details>
 
 
 ## :cn: China Mainland
@@ -1307,7 +1307,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](http://mdl.ipc.pku.edu.cn/)
 - Related Papers: 
   - [Angew 2024] GeoSeqBuilder: https://onlinelibrary.wiley.com/doi/10.1002/anie.202411461
-  </details>
+</details>
 
 <details>
 <summary>Yi Qin Gao 高毅勤</summary>
@@ -1327,7 +1327,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://zwt233.github.io/)
 - Related Papers: 
   - [ACL 2024] ProtLLM: ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training
-  </details>
+</details>
 
 ### Tsinghua University 清华大学
 <details>
@@ -1336,7 +1336,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://structpred.life.tsinghua.edu.cn/)
 - Related Papers: 
   - [NatComm 2024] SPIRED: https://www.nature.com/articles/s41467-024-51776-x
-  </details>
+</details>
 
 <details>
 <summary>Chunfu Xu 徐纯福</summary>
@@ -1344,7 +1344,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.timbr.tsinghua.edu.cn/info/1752/3158.htm)
 - Related Papers: 
   - [Nature 2020] Transmembrane pore design: https://www.nature.com/articles/s41586-020-2646-5
-  </details>
+</details>
 
 <details>
 <summary>Jianzhu Ma 马剑竹</summary>
@@ -1352,7 +1352,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://majianzhu.com/)
 - Related Papers: 
   - [NeurlPS 2022] DiffAb: https://www.biorxiv.org/content/10.1101/2022.07.10.499510.abstract
-  </details>
+</details>
 
 <details>
 <summary>Yang Liu 刘洋</summary>
@@ -1360,7 +1360,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://nlp.csai.tsinghua.edu.cn/~ly/)
 - Related Papers: 
   - [ICLR 2023] Antibody design: https://arxiv.org/abs/2208.06073
-  </details>
+</details>
 
 <details>
 <summary>Yanyan Lan 兰艳艳</summary>
@@ -1374,7 +1374,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://zhouh.github.io/)
 - Related Papers: 
   - [ICML 2024] ESM-AA: https://arxiv.org/abs/2403.12995
-  </details>
+</details>
 
 ### CAS ICT 中国科学院计算技术研究所
 
@@ -1384,7 +1384,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://people.ucas.edu.cn/~dbu)
 - Related Papers: 
   - [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
-  </details>
+</details>
 
 <details>
 <summary>Haicang Zhang 张海仓</summary>
@@ -1392,7 +1392,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://people.ucas.ac.cn/~0032113)
 - Related Papers: 
   - [Nature Machine Intelligence 2024] CarbonDesign: https://www.nature.com/articles/s42256-024-00838-2
-  </details>
+</details>
 
 ### CAS IBP 中国科学院生物物理研究所
 
@@ -1402,14 +1402,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://ibp.cas.cn/kydw_157813/xrktzz/xsszmZ/201912/t20191202_5447225.html)
 - Related Papers: 
   - [ProT-Diff for AMP generation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202406305)
-  </details>
+</details>
 
 <details>
 <summary>Dianbing Wang 王殿冰</summary>
 
 - Related Papers: 
   - [ProT-Diff for AMP generation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202406305)
-  </details>
+</details>
 
 ### Renmin University of China 中国人民大学
 <details>
@@ -1418,7 +1418,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://gsai.ruc.edu.cn/wenbing_huang)
 - Related Papers:
   - [Antibody design](https://arxiv.org/abs/2302.00203)
-  </details>
+</details>
 
 ### Shanghai Jiao Tong University 上海交通大学
 <details>
@@ -1428,7 +1428,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related Papers: 
   - [CPDiffusion for Argonaute design](https://www.nature.com/articles/s41421-024-00728-2)
   - [CPDiffusion-SS for secondary structure based design](https://arxiv.org/abs/2407.07443)
-  </details>
+</details>
 
 <details>
 <summary>Haifeng Cheng 陈海峰</summary>
@@ -1437,7 +1437,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related Papers: 
   - [GPD](https://academic.oup.com/bib/article/25/3/bbae135/7638270)
   - [Sequence design benchmark](https://doi.org/10.1093/bioinformatics/btae037)
-  </details>
+</details>
 
 <details>
 <summary>Shuangjia Zheng 郑双佳</summary>
@@ -1463,7 +1463,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://life.sjtu.edu.cn/teacher/ruiqing)
 - Related Papers: 
   - [NatComm 2024] QTY code: https://www.nature.com/articles/s41467-024-48513-9, [Chem Rev 2023] Review: https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00757
-  </details>
+</details>
 
 <details>
 <summary>Yuguang Wang 王宇光</summary>
@@ -1471,7 +1471,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://yuguangwang.github.io/)
 - Related Papers: 
   - [NeurIPS 2023] GraDe-IF: https://arxiv.org/abs/2306.16819
-  </details>
+</details>
 
 ### Fudan University 复旦大学
 <details>
@@ -1486,7 +1486,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://mrics.fudan.edu.cn/info/1021/1110.htm)
 - Related Papers: 
   - [bioRxiv 2024] https://www.biorxiv.org/content/10.1101/2024.08.20.608889v1.full
-  </details>
+</details>
 
 ### ShanghaiTech University 上海科技大学
 <details>
@@ -1495,7 +1495,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://slst.shanghaitech.edu.cn/djy/)
 - Related Papers: 
   - [Nature 2018] β-barrel design: https://www.nature.com/articles/s41586-018-0509-0
-  </details>
+</details>
 
 <details>
 <summary>Fang Bai 白芳</summary>
@@ -1517,7 +1517,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](http://zhanglab.sibcb.ac.cn/zhanglab/)
 - Related Papers: 
   - [JACS 2018] 设计含有金属离子簇的蛋白：https://pubs.acs.org/doi/10.1021/jacs.7b08261
-  </details>
+</details>
 
 ### Zhejiang University 浙江大学
 <details>
@@ -1533,7 +1533,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://fajieyuan.github.io/)
 - Related Papers: 
   - [ICLR 2024] SaProt: https://www.biorxiv.org/content/10.1101/2023.10.01.560349.abstract
-  </details>
+</details>
 
 <details>
 <summary>Longxin Cao 曹龙兴</summary>
@@ -1541,7 +1541,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/longxing-cao.html)
 - Related Papers: 
   - [Nature 2022] RifGen/RifDock: https://www.nature.com/articles/s41586-022-04654-9, [Science 2020] SARS-CoV-2 minibinder design: https://www.science.org/doi/full/10.1126/science.abd9909
-  </details>
+</details>
 
 <details>
 <summary>Zibo Chen 陈子博</summary>
@@ -1549,7 +1549,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://chenlab.org/)
 - Related Papers: 
   - [Science 2020] Logic gate design: https://www.science.org/doi/full/10.1126/science.aay2790, [Nature 2019] Orthogonal protein heterodimers design: https://www.nature.com/articles/s41586-018-0802-y
-  </details>
+</details>
 
 <details>
 <summary>Peilong Lu 卢培龙</summary>
@@ -1557,7 +1557,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.labxing.com/lab/693/home)
 - Related Papers: 
   - [Science 2018] Transmembrane protein design: https://www.science.org/doi/full/10.1126/science.aaq1739
-  </details>
+</details>
 
 <details>
 <summary>Jianyang Zeng 曾坚阳</summary>
@@ -1571,21 +1571,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.westlake.edu.cn/faculty/stan-zq-li.html)
 - Related Papers: 
   - [ICLR 2023] PiFold: https://arxiv.org/abs/2209.12643
-  </details>
+</details>
 
 ### Zhejiang University of Technology 浙江工业大学
 <details>
 <summary>Guijun Zhang 张贵军</summary>
 
 - Lab website: [Link](http://zhanglab-bioinf.com/people/guijunz/)
-
-- Related Papers:
-
-
-  - [Briefings in Bioinformatics 2024] SPDesign: https://academic.oup.com/bib/article/25/3/bbae146/7642672?login=false
-
-    </details>
-
+</details>
 
 ### Sun Yat-sen University 中山大学
 <details>
@@ -1608,7 +1601,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.sigs.tsinghua.edu.cn/lfr/main.htm)
 - Related Papers: [
   - Nat Catalysis] DLKcat: https://www.nature.com/articles/s41929-022-00798-z
-  </details>
+</details>
 
 ### SUSTech 南方科技大学
 <details>
@@ -1617,22 +1610,16 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://sustech.edu.cn/zh/faculties/lizhe.html)
 - Related Papers: 
   - [Nat Materials] 蛋白质晶体设计：https://www.nature.com/articles/s41563-023-01683-1
-  </details>
+</details>
 
 ### USTC 中国科学技术大学
 <details>
 <summary>Haiyan Liu 刘海燕</summary>
 
 - Lab website: [Link](https://biocomp.ustc.edu.cn/)
-
 - Related Papers: 
-  - [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6
-
-  - [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
-  
-  - [Nature Methods 2024] SCUBA-D: https://www.nature.com/articles/s41592-024-02465-6
-  
-    </details>
+  - [Nature Computational Science 2024] ABACUS-R: https://www.nature.com/articles/s43588-022-00273-6, [Nature 2022] SCUBA: https://www.nature.com/articles/s41586-021-04383-5
+</details>
 
 <details>
 <summary>Qi Liu 刘淇</summary>
@@ -1640,7 +1627,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](http://staff.ustc.edu.cn/~qiliuql/)
 - Related Papers: 
   - [NeurIPS 2023] FAIR: https://arxiv.org/abs/2310.02553
-  </details>
+</details>
 
 ### Xiamen University 厦门大学
 <details>
@@ -1649,7 +1636,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://informatics.xmu.edu.cn/info/1425/25349.htm)
 - Related Papers: 
   - [PB-GPT](https://doi.org/10.1016/j.str.2024.07.016)
-  </details>
+</details>
 
 ### Shandong University 山东大学
 <details>
@@ -1666,4 +1653,4 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Related Papers: 
   - [DeepEvo](https://spj.science.org/doi/full/10.34133/bdr.0031)
   - [Diffusion model for P450 generation](https://spj.science.org/doi/10.34133/research.0413)
-  </details>
+</details>
