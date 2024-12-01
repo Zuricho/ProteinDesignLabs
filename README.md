@@ -1305,8 +1305,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <details>
 <summary>Kuen-Phon Wu</summary>
 
--Lab Website: [Link](https://kpwulab.com)
-- Related Papers
+- Lab Website: [Link](https://kpwulab.com)
+- Related Papers:
   - [ACS Synthetic Biology 2023] Rsp5 E3 ligase Design: https://pubs.acs.org/doi/full/10.1021/acssynbio.3c00042
   </details>
 
