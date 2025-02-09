@@ -49,6 +49,8 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [University of Delaware](#university-of-delaware)
     - [Wake Forest University](#wake-forest-university)
     - [Vanderbilt University](#vanderbilt-university)
+    - [Yale University](#yale-university)
+    - [University of Oregon](#university-of-oregon)
   - [:canada: Canada](#canada-canada)
     - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
     - [University of Toronto](#university-of-toronto)
@@ -112,6 +114,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
     - [KAIST](#kaist)
     - [POSTECH](#postech)
     - [IBS](#ibs)
+    - [KIST](#kist)
   - [:hong\_kong: Hong Kong](#hong_kong-hong-kong)
     - [Chinese University of Hong Kong](#chinese-university-of-hong-kong)
     - [HKUST](#hkust)
@@ -749,6 +752,41 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.ai-proteindynamics.org/)
 </details>
 
+### Yale University
+
+<details>
+<summary>Mark Gerstein</summary>
+
+- Lab website: [Link](https://www.gersteinlab.org/)
+</details>
+
+<details>
+<summary>Rex Ying</summary>
+
+- Lab website: [Link](https://www.cs.yale.edu/homes/ying-rex/)
+</details>
+
+<details>
+<summary>Smita Krishnaswamy</summary>
+
+- Lab website: [Link](https://krishnaswamylab.org/)
+</details>
+
+<details>
+<summary>David van Dijk</summary>
+
+- Lab website: [Link](https://davidvandijk.squarespace.com/)
+</details>
+
+### University of Oregon
+
+<details>
+<summary>Parisa Hosseinzadeh</summary>
+
+- Lab website: [Link](https://www.parisahlab.org/)
+</details>
+
+
 ## :canada: Canada
 
 ### Mila - Quebec AI Institute
@@ -1272,6 +1310,15 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Ho Min Kim</summary>
 
 - Lab website: [Link](https://protein.ibs.re.kr/people/chief-investigator)
+</details>
+
+
+### KIST
+
+<details>
+<summary>Keunwan Park</summary>
+
+- Lab website: [Link](https://sites.google.com/site/keunwan/home?authuser=0)
 </details>
 
 ## :hong_kong: Hong Kong
